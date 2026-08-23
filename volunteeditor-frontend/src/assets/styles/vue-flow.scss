@@ -1,0 +1,57 @@
+$node-max-width: 400px;
+$node-min-width: 200px;
+
+@import '@vue-flow/core/dist/style.css';
+@import '@vue-flow/core/dist/theme-default.css';
+@import '@vue-flow/minimap/dist/style.css';
+@import '@vue-flow/controls/dist/style.css';
+
+:root {
+  --vf-node-max-width: #{$node-max-width};
+}
+
+.vue-flow__node-default,
+.vue-flow__node-input,
+.vue-flow__node-output {
+  border-radius: var(--bs-border-radius);
+  border-width: calc(var(--bs-border-width) * 2);
+}
+
+.vue-flow__node-default {
+  min-width: $node-min-width;
+  max-width: $node-max-width;
+}
+
+.vue-flow__node-input {
+  --vf-node-color: var(--bs-primary);
+  --vf-handle: var(--bs-primary);
+  --vf-box-shadow: var(--bs-primary);
+
+  background-color: var(--vf-node-bg);
+  border-color: var(--vf-node-color);
+}
+
+.vue-flow__node-output {
+  --vf-node-color: var(--bs-secondary);
+  --vf-handle: var(--bs-secondary);
+  --vf-box-shadow: var(--bs-secondary);
+
+  background-color: var(--vf-node-bg);
+  border-color: var(--vf-node-color);
+}
+
+.vue-flow__node-defaultWorkflow {
+  --vf-node-color: var(--bs-secondary-border-subtle);
+  --vf-handle: var(--bs-secondary-border-subtle);
+  --vf-box-shadow: var(--bs-secondary-border-subtle);
+
+  background-color: var(--vf-node-bg);
+  border-color: var(--vf-node-color);
+}
+
+.vue-flow__node-inside {
+  margin-top: 0.625rem;
+  padding: 0.625rem;
+  background-color: var(--bs-light);
+  border-radius: var(--bs-border-radius);
+}

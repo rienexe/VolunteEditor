@@ -1,0 +1,63 @@
+$primary: #047ac0;
+$primary-bg-subtle: #0568a2;
+$primary-light: #e7f5fe;
+
+$secondary: #6c747e;
+$secondary-bg-subtle: #54595d;
+$secondary-light: #abb5be;
+
+$success: #28a745;
+$danger: #dc3545;
+$warning: #ffc107;
+$info: #17a2b8;
+
+$light: #f2f2f2;
+$dark: #001d2e;
+
+$min-contrast-ratio: 2;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1200px
+);
+
+$display-font-weight: 500;
+$lead-font-weight: 700;
+
+$form-select-font-weight: 700;
+$form-label-font-weight: 700;
+
+$input-border-color: $primary;
+
+// import editors
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+@import "editor-js";
+@import "vue-draggable-next";
+@import "vue-flow.scss";
+
+// custom code
+.multiline-text-truncate {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.form-check-label {
+  font-weight: $form-label-font-weight;
+}
+
+.sticky-offset {
+  top: 90px;
+}
+
+@media (max-width: 575px) {
+  .sticky-offset {
+    top: 70px;
+  }
+}
