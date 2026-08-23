@@ -1,0 +1,151 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="roomBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF9F0"/>
+      <stop offset="100%" stop-color="#FFF0E0"/>
+    </linearGradient>
+    <linearGradient id="floorGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E8D0B0"/>
+      <stop offset="100%" stop-color="#D4B890"/>
+    </linearGradient>
+    <linearGradient id="wallBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF0E0"/>
+      <stop offset="100%" stop-color="#FFE8D0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background room wall -->
+  <rect width="800" height="450" fill="url(#wallBg)"/>
+
+  <!-- Floor -->
+  <rect x="0" y="330" width="800" height="120" fill="url(#floorGrad)"/>
+  <!-- Floor planks -->
+  <g stroke="#C4A870" stroke-width="0.8" opacity="0.4">
+    <line x1="0" y1="345" x2="800" y2="345"/>
+    <line x1="0" y1="362" x2="800" y2="362"/>
+    <line x1="0" y1="379" x2="800" y2="379"/>
+    <line x1="0" y1="396" x2="800" y2="396"/>
+    <line x1="150" y1="330" x2="150" y2="450"/>
+    <line x1="300" y1="330" x2="300" y2="450"/>
+    <line x1="450" y1="330" x2="450" y2="450"/>
+    <line x1="600" y1="330" x2="600" y2="450"/>
+    <line x1="750" y1="330" x2="750" y2="450"/>
+  </g>
+
+  <!-- Wall decorations: Artwork on wall -->
+  <!-- Picture frame 1 -->
+  <rect x="55" y="60" width="110" height="90" rx="3" fill="#8B5E3C" stroke="#6B4020" stroke-width="3"/>
+  <rect x="62" y="67" width="96" height="76" fill="#FFD080" opacity="0.9"/>
+  <!-- Abstract drawing inside -->
+  <circle cx="105" cy="100" r="20" fill="#FF8050" opacity="0.6"/>
+  <circle cx="120" cy="95" r="15" fill="#50C0A0" opacity="0.6"/>
+  <circle cx="95" cy="115" r="12" fill="#FFD040" opacity="0.6"/>
+
+  <!-- Picture frame 2 -->
+  <rect x="650" y="55" width="105" height="85" rx="3" fill="#8B5E3C" stroke="#6B4020" stroke-width="3"/>
+  <rect x="657" y="62" width="91" height="71" fill="#E0F0FF" opacity="0.9"/>
+  <!-- House drawing inside -->
+  <polygon points="690,100 702,78 714,100" fill="#FF8060" opacity="0.7"/>
+  <rect x="690" y="100" width="24" height="22" fill="#FFA060" opacity="0.7"/>
+  <rect x="696" y="108" width="12" height="14" fill="#5080C0" opacity="0.6"/>
+
+  <!-- Window with curtains -->
+  <rect x="330" y="55" width="140" height="120" rx="4" fill="#B8D8F0" stroke="#A09070" stroke-width="3"/>
+  <rect x="338" y="63" width="56" height="104" fill="#C0E0FF" opacity="0.7"/>
+  <rect x="396" y="63" width="66" height="104" fill="#C8E8FF" opacity="0.7"/>
+  <!-- Curtains -->
+  <path d="M330,55 Q345,100 338,175" fill="#FF9060" opacity="0.7"/>
+  <path d="M470,55 Q455,100 462,175" fill="#FF9060" opacity="0.7"/>
+  <!-- Window cross -->
+  <line x1="400" y1="63" x2="400" y2="167" stroke="#A09070" stroke-width="2"/>
+  <line x1="338" y1="115" x2="462" y2="115" stroke="#A09070" stroke-width="2"/>
+  <!-- Outdoor hint through window: sun and tree -->
+  <circle cx="440" cy="90" r="18" fill="#FFE040" opacity="0.6"/>
+  <rect x="358" y="120" width="7" height="40" fill="#6A9040" opacity="0.5"/>
+  <circle cx="361" cy="115" r="20" fill="#5A8030" opacity="0.4"/>
+
+  <!-- Wooden workshop table left -->
+  <rect x="60" y="290" width="200" height="16" rx="4" fill="#8B6535"/>
+  <rect x="68" y="305" width="12" height="35" fill="#7A5525"/>
+  <rect x="240" y="305" width="12" height="35" fill="#7A5525"/>
+  <!-- Woodworking items on table -->
+  <!-- Wood pieces -->
+  <rect x="75" y="278" width="60" height="12" rx="2" fill="#C09050"/>
+  <rect x="90" y="268" width="50" height="12" rx="2" fill="#B08040"/>
+  <!-- Hammer -->
+  <rect x="155" y="275" width="7" height="24" rx="2" fill="#8B6535" transform="rotate(-10,158,287)"/>
+  <rect x="148" y="271" width="20" height="9" rx="2" fill="#808080" transform="rotate(-10,158,275)"/>
+  <!-- Chisel -->
+  <rect x="188" y="272" width="4" height="22" rx="1" fill="#A09050" transform="rotate(15,190,283)"/>
+
+  <!-- Art/Kreativ table center -->
+  <rect x="300" y="285" width="200" height="16" rx="4" fill="#8B6535"/>
+  <rect x="308" y="300" width="12" height="38" fill="#7A5525"/>
+  <rect x="480" y="300" width="12" height="38" fill="#7A5525"/>
+  <!-- Art supplies on table -->
+  <!-- Paint palette -->
+  <ellipse cx="340" cy="278" rx="28" ry="18" fill="#F5E8D0" stroke="#C0A070" stroke-width="1.5"/>
+  <circle cx="328" cy="273" r="6" fill="#FF5050" opacity="0.8"/>
+  <circle cx="340" cy="270" r="6" fill="#FFD040" opacity="0.8"/>
+  <circle cx="352" cy="273" r="6" fill="#50B0FF" opacity="0.8"/>
+  <circle cx="333" cy="283" r="6" fill="#50C860" opacity="0.8"/>
+  <circle cx="349" cy="283" r="6" fill="#FF80C0" opacity="0.8"/>
+  <!-- Brushes in jar -->
+  <rect x="390" y="258" width="24" height="28" rx="4" fill="#8BB8D0" opacity="0.8"/>
+  <line x1="396" y1="258" x2="393" y2="238" stroke="#A07040" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="402" y1="258" x2="402" y2="235" stroke="#804020" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="408" y1="258" x2="412" y2="236" stroke="#A08040" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="393" cy="237" rx="4" ry="6" fill="#5080C0"/>
+  <ellipse cx="402" cy="234" rx="4" ry="6" fill="#C04020"/>
+  <ellipse cx="412" cy="235" rx="4" ry="6" fill="#40A040"/>
+  <!-- Painting in progress -->
+  <rect x="440" y="252" width="42" height="34" rx="2" fill="white" stroke="#C0A070" stroke-width="1.5"/>
+  <circle cx="455" cy="264" r="8" fill="#FF9050" opacity="0.7"/>
+  <path d="M448,278 Q461,270 475,278" fill="#60C080" opacity="0.5"/>
+
+  <!-- Cooking table right -->
+  <rect x="545" y="288" width="210" height="16" rx="4" fill="#8B6535"/>
+  <rect x="553" y="304" width="12" height="34" fill="#7A5525"/>
+  <rect x="735" y="304" width="12" height="34" fill="#7A5525"/>
+  <!-- Pot on table -->
+  <ellipse cx="600" cy="280" rx="32" ry="12" fill="#506080"/>
+  <rect x="568" y="268" width="64" height="18" rx="4" fill="#506080"/>
+  <ellipse cx="600" cy="268" rx="32" ry="8" fill="#607090"/>
+  <!-- Steam from pot -->
+  <path d="M590,260 Q584,248 590,238" fill="none" stroke="#C0B8B0" stroke-width="2" opacity="0.6" stroke-linecap="round"/>
+  <path d="M600,258 Q594,244 600,232" fill="none" stroke="#C0B8B0" stroke-width="2" opacity="0.5" stroke-linecap="round"/>
+  <path d="M610,260 Q616,248 610,238" fill="none" stroke="#C0B8B0" stroke-width="2" opacity="0.6" stroke-linecap="round"/>
+  <!-- Pot handles -->
+  <path d="M568,274 Q556,274 556,282 Q556,290 568,282" fill="none" stroke="#506080" stroke-width="5"/>
+  <path d="M632,274 Q644,274 644,282 Q644,290 632,282" fill="none" stroke="#506080" stroke-width="5"/>
+  <!-- Cutting board with veggies -->
+  <rect x="660" y="275" width="65" height="18" rx="3" fill="#D4A060" opacity="0.9"/>
+  <circle cx="674" cy="284" r="7" fill="#FF5050" opacity="0.7"/>
+  <ellipse cx="690" cy="284" rx="9" ry="6" fill="#FFA030" opacity="0.7"/>
+  <circle cx="707" cy="284" r="7" fill="#60C040" opacity="0.7"/>
+
+  <!-- Persons at activity tables -->
+  <!-- Person at wood table -->
+  <circle cx="130" cy="258" r="16" fill="#F5C8A0"/>
+  <path d="M114,310 Q122,278 142,278 Q155,278 148,310 Z" fill="#6080B0"/>
+  <path d="M114,282 Q108,270 105,260" fill="none" stroke="#6080B0" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="104" cy="257" r="6" fill="#F5C8A0"/>
+
+  <!-- Person at art table -->
+  <circle cx="400" cy="252" r="16" fill="#F4B880"/>
+  <path d="M384,305 Q392,270 412,270 Q422,270 418,305 Z" fill="#C06090"/>
+  <!-- Arm with brush -->
+  <path d="M384,275 Q378,263 376,255" fill="none" stroke="#C06090" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="375" cy="252" r="6" fill="#F4B880"/>
+
+  <!-- Person at cooking table -->
+  <circle cx="685" cy="255" r="16" fill="#F5C090"/>
+  <path d="M669,308 Q677,274 697,274 Q708,274 704,308 Z" fill="#E08030"/>
+  <!-- Chef hat hint -->
+  <ellipse cx="685" cy="240" rx="14" ry="10" fill="white" opacity="0.9"/>
+  <rect x="674" y="240" width="22" height="7" fill="white" opacity="0.9"/>
+
+  <!-- Label -->
+  <rect x="0" y="415" width="800" height="35" fill="#FF6B6B" opacity="0.85"/>
+  <text x="400" y="437" text-anchor="middle" font-size="14" font-weight="bold" fill="white" font-family="Arial, sans-serif" letter-spacing="2">MITDIRUNDMIR – KREATIV · GEMEINSAM · STARK</text>
+</svg>

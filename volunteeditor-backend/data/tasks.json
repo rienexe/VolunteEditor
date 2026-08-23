@@ -1,0 +1,2460 @@
+{
+  "besuchsdienst-fuer-unsere-bewohnerinnen": {
+    "meta": {
+      "title": "Besuchsdienst für unsere Bewohner:innen",
+      "orgId": "org001",
+      "workflowSlug": "default"
+    },
+    "blockContent": {
+      "main": {
+        "time": 1787495373799,
+        "blocks": [
+          {
+            "id": "taskTeaser-1774720817122",
+            "type": "taskTeaser",
+            "data": {
+              "title": "Einfach da sein – Besuchsdienst für unsere Bewohner:innen",
+              "text": "Ein Gespräch, ein offenes Ohr, ein vertrautes Gesicht – manchmal braucht es nicht viel, um jemandem den Tag zu erhellen. Als Freiwillige:r im Besuchsdienst schenken Sie Bewohner:innen Zeit und Aufmerksamkeit."
+            }
+          },
+          {
+            "id": "ULmFKBXUhX",
+            "type": "header",
+            "data": {
+              "text": "Aufgabenbeschreibung",
+              "level": 2
+            }
+          },
+          {
+            "id": "cT138a22dE",
+            "type": "paragraph",
+            "data": {
+              "text": "Als Freiwillige:r im Besuchsdienst besuchen Sie regelmäßig einzelne Bewohner:innen in ihrem Zimmer oder in den Gemeinschaftsräumen des Heims. Sie führen Gespräche über Alltägliches, Erinnerungen oder aktuelle Themen – ganz so, wie es sich ergibt. Es geht nicht um professionelle Beratung, sondern um menschliche Nähe: zuhören, lachen, nachfragen. Ein typischer Einsatz dauert ein bis zwei Stunden und findet im Heim statt. Sie werden von Pflegenden und der Freiwilligenkoordination begleitet und erhalten Hinweise, welche Bewohner:innen sich über Besuch freuen."
+            }
+          },
+          {
+            "id": "k4t-wdEZ8l",
+            "type": "header",
+            "data": {
+              "text": "Zielgruppe",
+              "level": 2
+            }
+          },
+          {
+            "id": "LJHngSOnjs",
+            "type": "paragraph",
+            "data": {
+              "text": "Bewohner:innen des Alters- und Pflegeheims Musterdorf, die wenig Besuch von Angehörigen erhalten oder sich zusätzliche Gesellschaft wünschen. Darunter sind Menschen mit unterschiedlichsten Biografien und Hintergründen, viele mit Mobilitätseinschränkungen oder beginnender Demenz. Ihr Beitrag als Freiwillige:r: Sie durchbrechen Einsamkeit und geben diesen Menschen das Gefühl, gesehen und wertgeschätzt zu werden."
+            }
+          },
+          {
+            "id": "Qaxf2RVsC2",
+            "type": "header",
+            "data": {
+              "text": "Mehrwert &amp; Nutzen",
+              "level": 2
+            }
+          },
+          {
+            "id": "1_Lannpzap",
+            "type": "paragraph",
+            "data": {
+              "text": "Sie sammeln unmittelbare menschliche Erfahrungen und lernen, was gutes Zuhören bedeutet – eine Kompetenz, die weit über das Ehrenamt hinaus trägt. Viele Freiwillige berichten, dass sie aus den Gesprächen mit älteren Menschen selbst viel mitnehmen: Lebensgeschichten, Perspektiven, Dankbarkeit. Das Heim bestätigt Ihr Engagement auf Wunsch schriftlich."
+            }
+          },
+          {
+            "id": "divider-1774721145230",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "jqcxWPYGZR",
+            "type": "header",
+            "data": {
+              "text": "Einarbeitung &amp; Begleitung",
+              "level": 2
+            }
+          },
+          {
+            "id": "qv5DQyQaxS",
+            "type": "paragraph",
+            "data": {
+              "text": "Zu Beginn findet ein persönliches Einführungsgespräch mit der Freiwilligenkoordination statt. Sie erhalten einen kurzen Einblick in den Heimalltag und werden mit den Bewohner:innen bekannt gemacht, die Sie besuchen werden. Eine feste Ansprechperson steht Ihnen jederzeit zur Verfügung. Einmal pro Quartal laden wir alle Freiwilligen zu einem Austausch-Treffen ein."
+            }
+          },
+          {
+            "id": "g5rHF5-ArK",
+            "type": "header",
+            "data": {
+              "text": "Anforderungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "IMOzVrWIVv",
+            "type": "paragraph",
+            "data": {
+              "text": "Sie bringen Offenheit, Einfühlungsvermögen und Verlässlichkeit mit. Keine fachlichen Vorkenntnisse nötig. Mindestalter: 16 Jahre. Wichtig ist, dass Sie sich auf regelmäßige Besuche einlassen können – Bewohner:innen freuen sich auf vertraute Gesichter."
+            }
+          },
+          {
+            "id": "WZHyFRBbx4",
+            "type": "header",
+            "data": {
+              "text": "Rahmenbedingungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "5CBuMYQmes",
+            "type": "paragraph",
+            "data": {
+              "text": "Freiwillige sind über die Haftpflichtversicherung des Heims abgedeckt. Fahrtkosten können auf Anfrage anteilig erstattet werden. Vor dem ersten Einsatz wird eine Datenschutz- und Vertraulichkeitsvereinbarung unterzeichnet. Das Engagement unterliegt keiner Mindestlaufzeit, eine Regelmäßigkeit von mind. 2× pro Monat ist jedoch erwünscht."
+            }
+          },
+          {
+            "id": "divider-1774721184559",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "BCuTLOWFBb",
+            "type": "header",
+            "data": {
+              "text": "Erfahrungsberichte",
+              "level": 2
+            }
+          },
+          {
+            "id": "qCFuqTI4qK",
+            "type": "paragraph",
+            "data": {
+              "text": "„Ich besuche Frau M. seit fast zwei Jahren jeden Donnerstag. Sie erzählt mir von früher, von ihren Reisen, ihrer Familie. Ich gehe jedes Mal bereichert nach Hause.\"<br><i>— Freiwillige, 34 Jahre</i>"
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1787495373800,
+        "blocks": [
+          {
+            "id": "organisationTeaser-1774721199522",
+            "type": "organisationTeaser",
+            "data": {
+              "title": "Alters- und Pflegeheim Musterdorf",
+              "text": "Unser Haus versteht sich als Ort der Würde, Sicherheit und Gemeinschaft. Neben professioneller Pflege schaffen wir Räume für Begegnung, Aktivität und Lebensfreude. Freiwilliges Engagement ist ein wichtiger Bestandteil unseres Alltags."
+            }
+          },
+          {
+            "id": "tags-1774721204311",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Menschen im Alter",
+                "Nachbarschaftshilfe"
+              ],
+              "link": "task/list?tag="
+            }
+          },
+          {
+            "id": "temporalDemand-1774721210198",
+            "type": "temporalDemand",
+            "data": {
+              "durationSubtitle": "Dauer des Engagements",
+              "scheduleSubtitle": "Termine",
+              "durationType": {
+                "type": "long-term",
+                "label": "Unbefristet",
+                "description": "längerfristiger oder offener Einsatz ohne definiertes Ende",
+                "icon": "<i class=\"bi bi-calendar3\"></i>"
+              },
+              "scheduleType": {
+                "type": "recurring",
+                "label": "regelmäßig",
+                "description": "z. B. wöchentlich oder monatlich",
+                "icon": "<i class=\"bi bi-arrow-repeat\"></i>"
+              },
+              "dates": "1-2x pro Woche"
+            }
+          },
+          {
+            "id": "taskSites-1774721206628",
+            "type": "taskSites",
+            "data": {
+              "title": "Einsatzort(e)",
+              "isRemote": false,
+              "isChanging": false,
+              "sites": [
+                "Musterdorf"
+              ]
+            }
+          },
+          {
+            "id": "workTypeAndDemand-1774721208650",
+            "type": "workTypeAndDemand",
+            "data": {
+              "title": "Arbeitsform & Bedarf",
+              "isUrgent": false,
+              "workTypes": [
+                "individual"
+              ],
+              "engagementTypes": [
+                "volunteering"
+              ],
+              "demand": {
+                "prefix": "",
+                "number": 5,
+                "suffix": "Personen gesucht"
+              }
+            }
+          },
+          {
+            "id": "divider-1774721214102",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "KIo1iCn1Xh",
+            "type": "header",
+            "data": {
+              "text": "Kontakt",
+              "level": 3
+            }
+          },
+          {
+            "id": "N2Kr7oDyHq",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Freiwilligenkoordination</b>"
+            }
+          },
+          {
+            "id": "contact-1774721216552",
+            "type": "contact",
+            "data": {
+              "contacts": [
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "koordination@musterdorf.at"
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "begleitung-bei-spaziergaengen-und-ausfluegen": {
+    "meta": {
+      "title": "Begleitung bei Spaziergängen und Ausflügen",
+      "orgId": "org001",
+      "workflowSlug": "default"
+    },
+    "blockContent": {
+      "main": {
+        "time": 1774795977381,
+        "blocks": [
+          {
+            "id": "taskTeaser-1774720817122",
+            "type": "taskTeaser",
+            "data": {
+              "title": "Frische Luft für zwei – Begleitung bei Spaziergängen und Ausflügen",
+              "text": "Viele Bewohner:innen möchten gerne nach draußen – brauchen dabei aber eine begleitende Person. Als freiwillige Begleitung machen Sie gemeinsame Schritte möglich: im Park, durch das Quartier oder auf dem Heimgelände."
+            }
+          },
+          {
+            "id": "Csrnjp-gkD",
+            "type": "header",
+            "data": {
+              "text": "Aufgabenbeschreibung",
+              "level": 2
+            }
+          },
+          {
+            "id": "Otih9h-V4z",
+            "type": "paragraph",
+            "data": {
+              "text": "Sie begleiten eine oder mehrere Bewohner:innen auf Spaziergängen im näheren Umfeld des Heims oder gelegentlichen Ausflügen. Dies kann zu Fuß, mit dem Rollstuhl oder mit einem Fahrzeug des Heims geschehen. Sie sorgen für Sicherheit und angenehme Gesellschaft – kein pflegerisches Wissen ist erforderlich. Typische Ziele: der nahegelegene Park, ein Café, der Wochenmarkt oder einfach eine Runde im Freien. Die Pflegenden koordinieren, wer an welchem Tag Begleitung wünscht."
+            }
+          },
+          {
+            "id": "3p3sfnHv3P",
+            "type": "header",
+            "data": {
+              "text": "Zielgruppe",
+              "level": 2
+            }
+          },
+          {
+            "id": "EPmvqMqc69",
+            "type": "paragraph",
+            "data": {
+              "text": "Ältere und pflegebedürftige Menschen, die eingeschränkt mobil sind und ohne Begleitung nicht eigenständig nach draußen können. Das Draußensein hat für sie einen hohen Erholungs- und Erlebniswert. Durch Ihre Unterstützung erhalten sie die Möglichkeit, am Leben außerhalb des Heims teilzuhaben.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "RirXqTFBL5",
+            "type": "header",
+            "data": {
+              "text": "Mehrwert &amp; Nutzen",
+              "level": 2
+            }
+          },
+          {
+            "id": "kOV56uIyp5",
+            "type": "paragraph",
+            "data": {
+              "text": "Sie erleben, wie viel ein einfacher Spaziergang bewirken kann – und genießen selbst die frische Luft. Das Engagement ist körperlich aktiv, unkompliziert und hat sofort sichtbare Wirkung. Es eignet sich besonders für Menschen, die gerne in Bewegung sind und Natur mögen. Schriftliche Bestätigung auf Wunsch.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "divider-1774721145230",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "eIkQq6swbh",
+            "type": "header",
+            "data": {
+              "text": "Einarbeitung &amp; Begleitung",
+              "level": 2
+            }
+          },
+          {
+            "id": "HpNnuBbsxm",
+            "type": "paragraph",
+            "data": {
+              "text": "Vor dem ersten Einsatz lernen Sie die Bewohner:innen kennen, die Sie begleiten werden. Pflegende zeigen Ihnen, worauf bei der Begleitung mit Rollstuhl oder Rollator zu achten ist. Sie erhalten einen kurzen Sicherheitshinweis und wissen, an wen Sie sich im Notfall wenden. Die Freiwilligenkoordination ist jederzeit erreichbar.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "eC37H-sWHo",
+            "type": "header",
+            "data": {
+              "text": "Anforderungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "I-23Yg_7J_",
+            "type": "paragraph",
+            "data": {
+              "text": "Zuverlässigkeit und ein ruhiges, geduldiges Auftreten. Freude an Bewegung und Natur. Körperliche Grundfitness (Gehstrecken bis ca. 2 km). Mindestalter 18 Jahre. Keine pflegerischen Kenntnisse erforderlich.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "-Tx_wyTckI",
+            "type": "header",
+            "data": {
+              "text": "Rahmenbedingungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "b7G6HGHSqr",
+            "type": "paragraph",
+            "data": {
+              "text": "Versicherungsschutz durch das Heim während des Einsatzes. Fahrtkosten können auf Anfrage erstattet werden. Nutzung von Rollstühlen und weiterem Material des Heims ist möglich. Einsätze finden bei angemessenen Witterungsbedingungen statt.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "divider-1774721184559",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "zqV4LinhiB",
+            "type": "header",
+            "data": {
+              "text": "Erfahrungsberichte",
+              "level": 2
+            }
+          },
+          {
+            "id": "DlwKFBqMDW",
+            "type": "paragraph",
+            "data": {
+              "text": "„Herr T. sagt jedes Mal, wenn wir zurückkommen: ‚Das war gut.' Mehr braucht es nicht. Ich komme deshalb gerne wieder.\"<br><i>— Freiwilliger, 52 Jahre&nbsp;&nbsp;</i>"
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1774795977381,
+        "blocks": [
+          {
+            "id": "organisationTeaser-1774721199522",
+            "type": "organisationTeaser",
+            "data": {
+              "title": "Alters- und Pflegeheim Musterdorf",
+              "text": "Unser Haus versteht sich als Ort der Würde, Sicherheit und Gemeinschaft. Neben professioneller Pflege schaffen wir Räume für Begegnung, Aktivität und Lebensfreude. Freiwilliges Engagement ist ein wichtiger Bestandteil unseres Alltags."
+            }
+          },
+          {
+            "id": "tags-1774721204311",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Menschen im Alter",
+                "Sport & Bewegung"
+              ],
+              "link": "task/list?tag="
+            }
+          },
+          {
+            "id": "temporalDemand-1774721210198",
+            "type": "temporalDemand",
+            "data": {
+              "title": "Zeitausmaß",
+              "durationSubtitle": "Dauer des Engagements",
+              "scheduleSubtitle": "Termine",
+              "durationType": {
+                "type": "long-term",
+                "label": "Unbefristet",
+                "description": "längerfristiger oder offener Einsatz ohne definiertes Ende",
+                "icon": "<i class=\"bi bi-calendar3\"></i>"
+              },
+              "scheduleType": {
+                "type": "recurring",
+                "label": "regelmäßig",
+                "description": "z. B. wöchentlich oder monatlich",
+                "icon": "<i class=\"bi bi-arrow-repeat\"></i>"
+              },
+              "dates": "1x pro Woche\n1-2 Std. pro Einsatz"
+            }
+          },
+          {
+            "id": "taskSites-1774721206628",
+            "type": "taskSites",
+            "data": {
+              "isRemote": false,
+              "isChanging": false,
+              "sites": [
+                "Musterdorf"
+              ]
+            }
+          },
+          {
+            "id": "workTypeAndDemand-1774721208650",
+            "type": "workTypeAndDemand",
+            "data": {
+              "title": "Arbeitsform & Bedarf",
+              "isUrgent": false,
+              "workTypes": [
+                "individual"
+              ],
+              "engagementTypes": [
+                "volunteering"
+              ],
+              "demand": {
+                "prefix": "",
+                "number": 4,
+                "suffix": "Personen gesucht"
+              }
+            }
+          },
+          {
+            "id": "divider-1774721214102",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "8Ua1rJ6xCC",
+            "type": "header",
+            "data": {
+              "text": "Kontakt",
+              "level": 3
+            }
+          },
+          {
+            "id": "RiZeaCtOmJ",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Freiwilligenkoordination</b>"
+            }
+          },
+          {
+            "id": "RAmyFiVzvl",
+            "type": "contact",
+            "data": {
+              "contacts": [
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "koordination@musterdorf.at"
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "vorlesen-und-gemeinsames-musikhoeren": {
+    "meta": {
+      "title": "Vorlesen und gemeinsames Musikhören",
+      "orgId": "org001",
+      "workflowSlug": "default"
+    },
+    "blockContent": {
+      "main": {
+        "time": 1774796184390,
+        "blocks": [
+          {
+            "id": "taskTeaser-1774720817122",
+            "type": "taskTeaser",
+            "data": {
+              "title": "Worte und Klänge teilen – Vorlesen und gemeinsames Musikhören",
+              "text": "Eine Geschichte, ein Gedicht, ein Lied aus alten Zeiten – Sprache und Musik berühren auf besondere Weise. Als freiwillige Vorleseperson oder Musikbegleitung schenken Sie Bewohner:innen Kultur und Geborgenheit."
+            }
+          },
+          {
+            "id": "cNQRGYIoY6",
+            "type": "header",
+            "data": {
+              "text": "Aufgabenbeschreibung",
+              "level": 2
+            }
+          },
+          {
+            "id": "eCEUo4MLKv",
+            "type": "paragraph",
+            "data": {
+              "text": "Sie lesen Bewohner:innen aus Büchern, Zeitungen, Kurzgeschichten oder Gedichten vor – entweder einer einzelnen Person oder einer kleinen Gruppe im Aufenthaltsraum. Alternativ hören Sie gemeinsam Musik: Sie bringen Tonträger mit, spielen ein Instrument oder nutzen die vorhandene Anlage im Heim. Dabei entstehen oft Gespräche über Erinnerungen, Lieblingslieder oder vergangene Zeiten. Das Angebot findet im Heim statt und dauert in der Regel 45 bis 90 Minuten.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "FFBtCH7mBb",
+            "type": "header",
+            "data": {
+              "text": "Zielgruppe",
+              "level": 2
+            }
+          },
+          {
+            "id": "gm68JsHjXE",
+            "type": "paragraph",
+            "data": {
+              "text": "Bewohner:innen mit Freude an Sprache, Literatur oder Musik – darunter auch Menschen mit beginnender Demenz, für die Klang und Rhythmus besonders aktivierend wirken können. Vorlesen und Musik ermöglichen Teilhabe auch dort, wo eigenes Lesen nicht mehr möglich ist.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "VdmBIhKF54",
+            "type": "header",
+            "data": {
+              "text": "Mehrwert &amp; Nutzen",
+              "level": 2
+            }
+          },
+          {
+            "id": "O6lXQl8fOR",
+            "type": "paragraph",
+            "data": {
+              "text": "Sie teilen etwas, das Ihnen selbst liegt – Literatur, Musik, Sprache – und erleben, wie diese Dinge andere Menschen berühren. Das Engagement erfordert keine sozialpädagogische Ausbildung, nur Leidenschaft und Präsenz. Viele Freiwillige entdecken dabei eine neue Form des Ausdrucks. Schriftliche Bestätigung auf Wunsch.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "divider-1774721145230",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "LLZNLdwNN2",
+            "type": "header",
+            "data": {
+              "text": "Einarbeitung &amp; Begleitung",
+              "level": 2
+            }
+          },
+          {
+            "id": "fE5BkUjogJ",
+            "type": "paragraph",
+            "data": {
+              "text": "Die Freiwilligenkoordination gibt Ihnen Hinweise zu Themen und Genres, die bei Bewohner:innen besonders ankommen. Sie erfahren, welche Bewohner:innen an Einzel- oder Gruppenangeboten teilnehmen möchten. Ein erstes gemeinsames Probesitzen ist immer möglich, bevor Sie eigenständig starten.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "QdeZkODg2a",
+            "type": "header",
+            "data": {
+              "text": "Anforderungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "I7pH076vgP",
+            "type": "paragraph",
+            "data": {
+              "text": "Freude am Lesen oder an Musik. Deutliche, angenehme Aussprache (beim Vorlesen). Bei Musikbegleitung: Grundkenntnisse auf einem Instrument oder Freude am Kuratieren von Playlists. Geduld und Einfühlungsvermögen. Mindestalter 16 Jahre.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "jm4PwG-GiA",
+            "type": "header",
+            "data": {
+              "text": "Rahmenbedingungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "0PelaMIZJH",
+            "type": "paragraph",
+            "data": {
+              "text": "Nutzung der hauseigenen Musikanlage ist möglich. Bücher und Zeitschriften können über die Heimbibliothek ausgeliehen werden. Versicherungsschutz durch das Heim. Aufwandsentschädigung oder Fahrtkostenerstattung auf Anfrage.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "divider-1774721184559",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "Jfh25OksjV",
+            "type": "header",
+            "data": {
+              "text": "Erfahrungsberichte",
+              "level": 2
+            }
+          },
+          {
+            "id": "9N1LC7WGKZ",
+            "type": "paragraph",
+            "data": {
+              "text": "„Ich lese Frau B. jeden zweiten Montag aus Krimis vor. Sie schließt die Augen und ist ganz dabei. Hinterher reden wir noch eine Weile. Es ist jedes Mal ein kleines Geschenk.\"<br><i>— Freiwillige, 28 Jahre&nbsp;&nbsp;</i>"
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1774796184390,
+        "blocks": [
+          {
+            "id": "organisationTeaser-1774721199522",
+            "type": "organisationTeaser",
+            "data": {
+              "title": "Alters- und Pflegeheim Musterdorf",
+              "text": "Unser Haus versteht sich als Ort der Würde, Sicherheit und Gemeinschaft. Neben professioneller Pflege schaffen wir Räume für Begegnung, Aktivität und Lebensfreude. Freiwilliges Engagement ist ein wichtiger Bestandteil unseres Alltags."
+            }
+          },
+          {
+            "id": "tags-1774721204311",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Menschen im Alter",
+                "Kunst & Kultur"
+              ],
+              "link": "task/list?tag="
+            }
+          },
+          {
+            "id": "temporalDemand-1774721210198",
+            "type": "temporalDemand",
+            "data": {
+              "title": "Zeitausmaß",
+              "durationSubtitle": "Dauer des Engagements",
+              "scheduleSubtitle": "Termine",
+              "durationType": {
+                "type": "long-term",
+                "label": "Unbefristet",
+                "description": "längerfristiger oder offener Einsatz ohne definiertes Ende",
+                "icon": "<i class=\"bi bi-calendar3\"></i>"
+              },
+              "scheduleType": {
+                "type": "recurring",
+                "label": "regelmäßig",
+                "description": "z. B. wöchentlich oder monatlich",
+                "icon": "<i class=\"bi bi-arrow-repeat\"></i>"
+              },
+              "dates": "1x pro Woche oder Monat\n45-90 Min. pro Einstz"
+            }
+          },
+          {
+            "id": "taskSites-1774721206628",
+            "type": "taskSites",
+            "data": {
+              "isRemote": false,
+              "isChanging": false,
+              "sites": [
+                "Musterdorf"
+              ]
+            }
+          },
+          {
+            "id": "workTypeAndDemand-1774721208650",
+            "type": "workTypeAndDemand",
+            "data": {
+              "title": "Arbeitsform & Bedarf",
+              "isUrgent": false,
+              "workTypes": [
+                "individual",
+                "group"
+              ],
+              "engagementTypes": [
+                "volunteering"
+              ],
+              "demand": {
+                "prefix": "",
+                "number": 3,
+                "suffix": "Personen gesucht"
+              }
+            }
+          },
+          {
+            "id": "divider-1774721214102",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "PoBhX3_ICX",
+            "type": "header",
+            "data": {
+              "text": "Kontakt",
+              "level": 3
+            }
+          },
+          {
+            "id": "2Qdmkm2uwG",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Freiwilligenkoordination</b>"
+            }
+          },
+          {
+            "id": "BmOaQBf2qE",
+            "type": "contact",
+            "data": {
+              "contacts": [
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "koordination@musterdorf.at"
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "kreativangebote-fuer-bewohnerinnen": {
+    "meta": {
+      "title": "Kreativangebote für Bewohner:innen",
+      "orgId": "org001",
+      "workflowSlug": "default"
+    },
+    "blockContent": {
+      "main": {
+        "time": 1774806653300,
+        "blocks": [
+          {
+            "id": "taskTeaser-1774720817122",
+            "type": "taskTeaser",
+            "data": {
+              "title": "Spielen, basteln, gestalten – Kreativangebote für Bewohner:innen",
+              "text": "Ob Gesellschaftsspiel, Malen oder gemeinsames Basteln: Kreativität hält den Geist lebendig und bringt Menschen zusammen. Begleiten Sie unsere Bewohner:innen bei Spiel- und Kreativrunden mit Schwung und Ideen."
+            }
+          },
+          {
+            "id": "_2PA0d-f3r",
+            "type": "header",
+            "data": {
+              "text": "Aufgabenbeschreibung",
+              "level": 2
+            }
+          },
+          {
+            "id": "O9LiwHL1Zx",
+            "type": "paragraph",
+            "data": {
+              "text": "Sie leiten oder begleiten regelmäßige Spiel- und Kreativrunden in kleinen Gruppen. Das können klassische Gesellschaftsspiele sein (Karten, Mensch ärgere dich nicht, Memory), aber auch Malen, Collagen gestalten, Basteln zu saisonalen Themen oder einfache handwerkliche Tätigkeiten. Sie bringen eigene Ideen ein, oder wir stellen gemeinsam ein Programm zusammen. Die Angebote finden im Aufenthaltsraum oder Garten des Heims statt und dauern je nach Format 60 bis 120 Minuten. Material wird vom Heim bereitgestellt.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "7Sb0dL5i9O",
+            "type": "header",
+            "data": {
+              "text": "Zielgruppe",
+              "level": 2
+            }
+          },
+          {
+            "id": "aq1vR4Ba28",
+            "type": "paragraph",
+            "data": {
+              "text": "Bewohner:innen aller Pflegestufen, die Freude an gemeinsamen Aktivitäten haben. Gruppen mit 3 bis 8 Personen, teils auch Menschen mit Demenz oder kognitiven Beeinträchtigungen, für die niederschwellige, sinnliche Aktivitäten besonders wertvoll sind. Ihr Beitrag: Freude, Struktur und das Erlebnis von Gemeinschaft.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "0mgRt_zF-6",
+            "type": "header",
+            "data": {
+              "text": "Mehrwert &amp; Nutzen",
+              "level": 2
+            }
+          },
+          {
+            "id": "GNmR3C5PYs",
+            "type": "paragraph",
+            "data": {
+              "text": "Sie gestalten aktiv Lebensqualität mit – und entwickeln dabei Moderations- und Organisationsfähigkeiten. Das Angebot bietet Spielraum für eigene Kreativität und ist oft das Herzstück des Heimalltags. Wer Freude daran hat, andere zu begeistern und etwas zu gestalten, ist hier genau richtig. Auf Wunsch Bestätigung des Engagements.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "divider-1774721145230",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "bYEwnoEFNC",
+            "type": "header",
+            "data": {
+              "text": "Einarbeitung &amp; Begleitung",
+              "level": 2
+            }
+          },
+          {
+            "id": "qCyOv2EO37",
+            "type": "paragraph",
+            "data": {
+              "text": "Wir starten gemeinsam mit einem Planungsgespräch: Was liegen Ihnen? Welche Spiele oder Basteltechniken kennen Sie? Daraus entwickeln wir gemeinsam ein erstes Programm. Beim Einstieg ist immer eine Bezugsperson aus dem Pflegeteam dabei. Danach führen Sie die Runden selbstständig durch – mit dem Pflegeteam als Rückhalt.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "oaadfTbDzt",
+            "type": "header",
+            "data": {
+              "text": "Anforderungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "C5SdCPDepo",
+            "type": "paragraph",
+            "data": {
+              "text": "Freude am Spielen und Gestalten. Ein ruhiges, einladendes Auftreten gegenüber älteren Menschen. Eigene Spielideen oder handwerkliche Interessen sind willkommen, aber nicht Voraussetzung. Mindestalter 16 Jahre. Erfahrung mit Senioren ist ein Plus, kein Muss.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "qixiltquZq",
+            "type": "header",
+            "data": {
+              "text": "Rahmenbedingungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "xtoEIFCrFg",
+            "type": "paragraph",
+            "data": {
+              "text": "Spielmaterial, Bastelutensilien und Verbrauchsmaterialien werden vollständig vom Heim gestellt. Versicherungsschutz durch das Heim. Fahrtkostenerstattung auf Anfrage möglich. Koordination der Termine über die Freiwilligenkoordination.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "divider-1774721184559",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "W2Wuksb04G",
+            "type": "header",
+            "data": {
+              "text": "Erfahrungsberichte",
+              "level": 2
+            }
+          },
+          {
+            "id": "oLqH9MM7g_",
+            "type": "paragraph",
+            "data": {
+              "text": "„Die Spielnachmittage sind mein Highlight der Woche – nicht nur für die Bewohnerinnen. Wenn Herr K. beim Karten­spielen gewinnt und lacht, dann weiß ich, warum ich hier bin.\"<br><i>— Freiwillige, 42 Jahre&nbsp;&nbsp;</i>"
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1774806653301,
+        "blocks": [
+          {
+            "id": "organisationTeaser-1774721199522",
+            "type": "organisationTeaser",
+            "data": {
+              "title": "Alters- und Pflegeheim Musterdorf",
+              "text": "Unser Haus versteht sich als Ort der Würde, Sicherheit und Gemeinschaft. Neben professioneller Pflege schaffen wir Räume für Begegnung, Aktivität und Lebensfreude. Freiwilliges Engagement ist ein wichtiger Bestandteil unseres Alltags."
+            }
+          },
+          {
+            "id": "tags-1774721204311",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Menschen im Alter",
+                "Kunst & Kultur"
+              ],
+              "link": "task/list?tag="
+            }
+          },
+          {
+            "id": "temporalDemand-1774721210198",
+            "type": "temporalDemand",
+            "data": {
+              "title": "Zeitausmaß",
+              "durationSubtitle": "Dauer des Engagements",
+              "scheduleSubtitle": "Termine",
+              "durationType": {
+                "type": "long-term",
+                "label": "Unbefristet",
+                "description": "längerfristiger oder offener Einsatz ohne definiertes Ende",
+                "icon": "<i class=\"bi bi-calendar3\"></i>"
+              },
+              "scheduleType": {
+                "type": "recurring",
+                "label": "regelmäßig",
+                "description": "z. B. wöchentlich oder monatlich",
+                "icon": "<i class=\"bi bi-arrow-repeat\"></i>"
+              },
+              "dates": "1-2x pro Monat\n1-2 Std. pro Runde"
+            }
+          },
+          {
+            "id": "taskSites-1774721206628",
+            "type": "taskSites",
+            "data": {
+              "isRemote": false,
+              "isChanging": false,
+              "sites": [
+                "Musterdorf"
+              ]
+            }
+          },
+          {
+            "id": "workTypeAndDemand-1774721208650",
+            "type": "workTypeAndDemand",
+            "data": {
+              "title": "Arbeitsform & Bedarf",
+              "isUrgent": false,
+              "workTypes": [
+                "group"
+              ],
+              "engagementTypes": [
+                "volunteering"
+              ],
+              "demand": {
+                "prefix": "",
+                "number": 3,
+                "suffix": "Personen gesucht"
+              }
+            }
+          },
+          {
+            "id": "divider-1774721214102",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "zL5SBSA88b",
+            "type": "header",
+            "data": {
+              "text": "Kontakt",
+              "level": 3
+            }
+          },
+          {
+            "id": "MtYU8nXFfo",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Freiwilligenkoordination</b>"
+            }
+          },
+          {
+            "id": "_aotDd13sv",
+            "type": "contact",
+            "data": {
+              "contacts": []
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "mithilfe-beim-sommerfest": {
+    "meta": {
+      "title": "Mithilfe beim Sommerfest",
+      "orgId": "org001",
+      "workflowSlug": "default"
+    },
+    "blockContent": {
+      "main": {
+        "time": 1774803210567,
+        "blocks": [
+          {
+            "id": "taskTeaser-1774775569876",
+            "type": "taskTeaser",
+            "data": {
+              "title": "Anpacken für ein unvergessliches Fest – Mithilfe beim Sommerfest",
+              "text": "Einmal im Jahr öffnet das Alters- und Pflegeheim Musterdorf seine Türen für ein großes Sommerfest – für Bewohner:innen, Angehörige und das Quartier. Damit dieses Fest gelingt, brauchen wir tatkräftige Unterstützung vor, während und nach dem Event.&amp;nbsp;&amp;nbsp;"
+            }
+          },
+          {
+            "id": "XVZeFelFfE",
+            "type": "header",
+            "data": {
+              "text": "Aufgabenbeschreibung",
+              "level": 2
+            }
+          },
+          {
+            "id": "u-bVnxjrYV",
+            "type": "paragraph",
+            "data": {
+              "text": "Sie helfen beim Auf- und Abbau von Tischen, Zelten und Dekoration, übernehmen Aufgaben an Getränke- oder Essensständen, begleiten Bewohner:innen auf dem Festgelände oder unterstützen das Programm (z. B. Moderation, Spiele, Musik). Die Aufgaben werden je nach Ihren Stärken und Interessen im Vorfeld abgestimmt. Das Fest findet auf dem Heimgelände und in den Innenräumen statt und umfasst ca. 150–200 Gäste.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "EVeMYh0vXM",
+            "type": "image",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/general/7c27bc12-1d8a-4db3-8ab1-0b4057808925.svg"
+              }
+            }
+          },
+          {
+            "id": "E_RuXlLnA-",
+            "type": "header",
+            "data": {
+              "text": "Ablauf &amp; Prozess",
+              "level": 2
+            }
+          },
+          {
+            "id": "2Hjetk9aLq",
+            "type": "list",
+            "data": {
+              "style": "ordered",
+              "meta": {
+                "counterType": "numeric"
+              },
+              "items": [
+                {
+                  "content": "<b>Voranmeldung</b>:&nbsp;Sie melden sich bis spätestens 3 Wochen vor dem Fest an und geben an, welche Aufgaben Sie übernehmen möchten.",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Infotreffen</b>:&nbsp;Ca. 1 Woche vorher findet ein kurzes Briefing mit allen Freiwilligen statt (30–45 Min., im Heim oder per Video).",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Aufbau</b>:&nbsp;Einsatz am Festmorgen ab 08:00 Uhr – Aufbau, Dekoration, Materialausgabe.",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Festbetrieb</b>:&nbsp;Begleitung der Bewohner:innen, Unterstützung an Ständen, Programmbegleitung (12:00–18:00 Uhr).",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Abbau &amp; Abschluss</b>:&nbsp;Gemeinsames Aufräumen ab 18:00 Uhr – danach kleines Dankeschön-Apéro für alle Freiwilligen.",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "YNPEq86ioY",
+            "type": "header",
+            "data": {
+              "text": "Zielgruppe",
+              "level": 2
+            }
+          },
+          {
+            "id": "8xUqKgozdW",
+            "type": "paragraph",
+            "data": {
+              "text": "Das Sommerfest richtet sich an alle Bewohner:innen des Heims sowie deren Angehörige und Gäste aus dem Quartier. Besonders für Bewohner:innen mit eingeschränkter Mobilität ist die Begleitung durch Freiwillige entscheidend, um aktiv am Fest teilnehmen zu können. Ihr Beitrag schafft Begegnung zwischen Generationen und stärkt die Verbindung des Heims zur Gemeinschaft.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "divider-1774775583065",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "p2DUaTI6gc",
+            "type": "header",
+            "data": {
+              "text": "Anforderungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "sBjoApjKMb",
+            "type": "paragraph",
+            "data": {
+              "text": "Tatkräftigkeit und Freude an lebhafter Atmosphäre. Bereitschaft, den ganzen Festtag oder einen klar definierten Teil davon präsent zu sein. Teamfähigkeit. Mindestalter 16 Jahre. Für den Aufbau: körperliche Grundfitness.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "qLyo-z5WKq",
+            "type": "header",
+            "data": {
+              "text": "Rahmenbedingungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "U6nmEGxrXv",
+            "type": "paragraph",
+            "data": {
+              "text": "Einsatz an einem fixen Datum (wird rechtzeitig kommuniziert). Versicherungsschutz durch das Heim. Freiwillige erhalten Mahlzeiten während des Einsatzes. Anreisekosten auf Anfrage erstattbar. Schriftliche Bestätigung des Engagements auf Wunsch.&nbsp;&nbsp;"
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1774803210567,
+        "blocks": [
+          {
+            "id": "organisationTeaser-1774775591625",
+            "type": "organisationTeaser",
+            "data": {
+              "title": "Alters- und Pflegeheim Musterdorf",
+              "text": "Unser Haus versteht sich als Ort der Würde, Sicherheit und Gemeinschaft. Neben professioneller Pflege schaffen wir Räume für Begegnung, Aktivität und Lebensfreude. Freiwilliges Engagement ist ein wichtiger Bestandteil unseres Alltags."
+            }
+          },
+          {
+            "id": "tags-1774775594645",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Menschen im Alter",
+                "Nachbarschaftshilfe"
+              ],
+              "link": "task/list?tag="
+            }
+          },
+          {
+            "id": "taskSites-1774775596841",
+            "type": "taskSites",
+            "data": {
+              "isRemote": false,
+              "isChanging": false,
+              "sites": [
+                "Musterdorf"
+              ]
+            }
+          },
+          {
+            "id": "temporalDemand-1774775598928",
+            "type": "temporalDemand",
+            "data": {
+              "title": "Zeitausmaß",
+              "durationSubtitle": "Dauer des Engagements",
+              "scheduleSubtitle": "Termine",
+              "durationType": {
+                "type": "one-time",
+                "label": "Einmalig",
+                "description": "einmaliger, nicht regelmäßiger Einsatz",
+                "icon": "<i class=\"bi bi-calendar3-event\"></i>"
+              },
+              "scheduleType": {
+                "type": "single",
+                "label": "fixierte Termine",
+                "description": "mehrere, nicht regelmäßig stattfindende Termine",
+                "icon": "<i class=\"bi bi-calendar-check\"></i>"
+              },
+              "dates": [
+                {
+                  "startDate": "18.07.2026",
+                  "endDate": null,
+                  "startTime": "09:00",
+                  "endTime": "18:00"
+                }
+              ]
+            }
+          },
+          {
+            "id": "workTypeAndDemand-1774775600896",
+            "type": "workTypeAndDemand",
+            "data": {
+              "title": "Arbeitsform & Bedarf",
+              "isUrgent": true,
+              "workTypes": [
+                "group"
+              ],
+              "engagementTypes": [
+                "volunteering"
+              ],
+              "demand": {
+                "prefix": "",
+                "number": 10,
+                "suffix": "Personen gesucht"
+              }
+            }
+          },
+          {
+            "id": "divider-1774775604553",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "QC_v5bvtbQ",
+            "type": "header",
+            "data": {
+              "text": "Kontakt",
+              "level": 3
+            }
+          },
+          {
+            "id": "dmkMojHFda",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Freiwilligenkoordination</b>"
+            }
+          },
+          {
+            "id": "WI6ZpKCzxb",
+            "type": "contact",
+            "data": {
+              "contacts": []
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "mitgestalten-bei-der-adventsfeier": {
+    "meta": {
+      "title": "Mitgestalten bei der Adventsfeier  ",
+      "orgId": "org001",
+      "workflowSlug": "default"
+    },
+    "blockContent": {
+      "main": {
+        "time": 1774806672958,
+        "blocks": [
+          {
+            "id": "HTEfx6B2PG",
+            "type": "image",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/general/874a54ad-179b-409d-9991-d18be8ef4d79.svg"
+              }
+            }
+          },
+          {
+            "id": "taskTeaser-1774775569876",
+            "type": "taskTeaser",
+            "data": {
+              "title": "Wärme in der Adventszeit – Mitgestalten bei der Adventsfeier",
+              "text": "Die Adventsfeier ist ein besonderer Moment im Jahreskalender des Heims. Kerzen, Musik, Düfte – und Menschen, die sich Zeit füreinander nehmen. Helfen Sie mit, diese stimmungsvolle Veranstaltung für alle Beteiligten zum Erlebnis zu machen."
+            }
+          },
+          {
+            "id": "-n4zSInPut",
+            "type": "header",
+            "data": {
+              "text": "Aufgabenbeschreibung",
+              "level": 2
+            }
+          },
+          {
+            "id": "cvBvqxl2zG",
+            "type": "paragraph",
+            "data": {
+              "text": "Sie unterstützen die Organisation und Durchführung der jährlichen Adventsfeier: von der Dekoration über die Begleitung der Bewohner:innen bis hin zur Mithilfe beim Buffet oder Programm. Wer musikalisch ist, kann die Feier aktiv mitgestalten. Auch das Backen von Weihnachtsgebäck im Vorfeld (gemeinsam mit Bewohner:innen oder als Sachspende) ist willkommen. Die Feier dauert ca. 3 Stunden und findet im großen Gemeinschaftsraum statt.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "XgF7R3k_wo",
+            "type": "header",
+            "data": {
+              "text": "Ablauf &amp; Prozess",
+              "level": 2
+            }
+          },
+          {
+            "id": "MGPq4RjL9s",
+            "type": "list",
+            "data": {
+              "style": "ordered",
+              "meta": {
+                "counterType": "numeric"
+              },
+              "items": [
+                {
+                  "content": "<b>Anmeldung &amp; Aufgabenwahl</b>:&nbsp;Bis 4 Wochen vorher – Sie teilen mit, in welchem Bereich Sie mithelfen möchten.",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Vorbereitungstag</b>:&nbsp;Optional: gemeinsames Dekorieren und Backen mit Bewohner:innen, 1–2 Tage vor der Feier.",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Aufbau am Festtag</b>:&nbsp;1 Stunde vor Beginn – Tische eindecken, Dekoration, Technik.",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Durchführung</b>:&nbsp;Begleitung der Bewohner:innen, Buffetservice, Programmunterstützung.",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Abbau</b>:&nbsp;Gemeinsames Aufräumen – danach Dankeschön-Runde mit Punsch und Gebäck.",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "pjsWCggvuI",
+            "type": "header",
+            "data": {
+              "text": "Zielgruppe",
+              "level": 2
+            }
+          },
+          {
+            "id": "8XGvzRn86A",
+            "type": "paragraph",
+            "data": {
+              "text": "Alle Bewohner:innen des Heims sowie geladene Angehörige. Für viele Bewohner:innen ist die Adventsfeier ein emotionaler Höhepunkt des Jahres – ein Moment, der Geborgenheit und Zugehörigkeit schenkt. Freiwillige sorgen dafür, dass niemand am Rand sitzt und alle aktiv teilhaben können.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "divider-1774775583065",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "Hyq3tXHRG-",
+            "type": "header",
+            "data": {
+              "text": "Anforderungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "0xe-nDWLwq",
+            "type": "paragraph",
+            "data": {
+              "text": "Freude an festlicher Atmosphäre und am Umgang mit älteren Menschen. Zuverlässigkeit, Pünktlichkeit. Wer Musik, Backen oder Dekoration als Stärke mitbringt: herzlich willkommen. Mindestalter 16 Jahre. Keine pflegerischen Kenntnisse erforderlich.&nbsp;&nbsp;"
+            }
+          },
+          {
+            "id": "MGpSTH8lbM",
+            "type": "header",
+            "data": {
+              "text": "Rahmenbedingungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "ftLC1op2hc",
+            "type": "paragraph",
+            "data": {
+              "text": "Einmaliger Einsatz an einem fixierten Datum (Dezember). Versicherungsschutz durch das Heim. Verpflegung während des Einsatzes inklusive. Fahrtkostenerstattung auf Anfrage möglich.&nbsp;&nbsp;"
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1774806672958,
+        "blocks": [
+          {
+            "id": "organisationTeaser-1774775591625",
+            "type": "organisationTeaser",
+            "data": {
+              "title": "Alters- und Pflegeheim Musterdorf",
+              "text": "Unser Haus versteht sich als Ort der Würde, Sicherheit und Gemeinschaft. Neben professioneller Pflege schaffen wir Räume für Begegnung, Aktivität und Lebensfreude. Freiwilliges Engagement ist ein wichtiger Bestandteil unseres Alltags."
+            }
+          },
+          {
+            "id": "tags-1774775594645",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Menschen im Alter",
+                "Kunst & Kultur"
+              ],
+              "link": "task/list?tag="
+            }
+          },
+          {
+            "id": "taskSites-1774775596841",
+            "type": "taskSites",
+            "data": {
+              "isRemote": false,
+              "isChanging": false,
+              "sites": [
+                "Musterdorf"
+              ]
+            }
+          },
+          {
+            "id": "temporalDemand-1774775598928",
+            "type": "temporalDemand",
+            "data": {
+              "title": "Zeitausmaß",
+              "durationSubtitle": "Dauer des Engagements",
+              "scheduleSubtitle": "Termine",
+              "durationType": {
+                "type": "one-time",
+                "label": "Einmalig",
+                "description": "einmaliger, nicht regelmäßiger Einsatz",
+                "icon": "<i class=\"bi bi-calendar3-event\"></i>"
+              },
+              "scheduleType": {
+                "type": "single",
+                "label": "fixierte Termine",
+                "description": "mehrere, nicht regelmäßig stattfindende Termine",
+                "icon": "<i class=\"bi bi-calendar-check\"></i>"
+              },
+              "dates": [
+                {
+                  "startDate": "12.12.2026",
+                  "endDate": "13.12.2026",
+                  "startTime": "14:00",
+                  "endTime": "19:00"
+                }
+              ]
+            }
+          },
+          {
+            "id": "suVmrFC7xa",
+            "type": "paragraph",
+            "data": {
+              "text": "optional auch am Vortag"
+            }
+          },
+          {
+            "id": "workTypeAndDemand-1774775600896",
+            "type": "workTypeAndDemand",
+            "data": {
+              "title": "Arbeitsform & Bedarf",
+              "isUrgent": false,
+              "workTypes": [
+                "group"
+              ],
+              "engagementTypes": [
+                "volunteering"
+              ],
+              "demand": {
+                "prefix": "",
+                "number": 8,
+                "suffix": "Personen gesucht"
+              }
+            }
+          },
+          {
+            "id": "divider-1774775604553",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "OPSscazh6m",
+            "type": "header",
+            "data": {
+              "text": "Kontakt",
+              "level": 3
+            }
+          },
+          {
+            "id": "Hlas4XnDAV",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Freiwilligenkoordination</b>"
+            }
+          },
+          {
+            "id": "z7zKUx8EdE",
+            "type": "contact",
+            "data": {
+              "contacts": []
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "restaurierung-historischer-eisenbahnfahrzeuge": {
+    "meta": {
+      "title": "Restaurierung historischer Eisenbahnfahrzeuge",
+      "orgId": "org005",
+      "workflowSlug": "bewerbung-mit-telefonat"
+    },
+    "blockContent": {
+      "main": {
+        "time": 1787493293299,
+        "blocks": [
+          {
+            "id": "taskTeaser-1774808387752",
+            "type": "taskTeaser",
+            "data": {
+              "title": "",
+              "text": "Werde Teil unseres Werkstatt-Teams und erwecke historische Lokomotiven und Waggons zu neuem Leben! Mit handwerklichem Geschick und Teamgeist trägst du aktiv dazu bei, Eisenbahngeschichte zu bewahren."
+            }
+          },
+          {
+            "id": "organisationTeaser-1774808391021",
+            "type": "organisationTeaser",
+            "data": {
+              "title": "Museumsbahn Musterdorf (MbMd)",
+              "text": "Der Verein Museumsbahn Musterdorf (MbMd) erhält und betreibt die historische Musterbahn. Mit viel Herzblut restaurieren unsere Mitglieder alte Waggons und Lokomotiven und machen Eisenbahngeschichte für kommende Generationen erlebbar. Regelmäßige Fahrtage, Führungen und Technik-Workshops machen die Bahn zu einem lebendigen Treffpunkt für Jung und Alt."
+            }
+          },
+          {
+            "id": "tags-1774808394247",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Kunst & Kultur"
+              ],
+              "link": "task/list?tag="
+            }
+          },
+          {
+            "id": "ZViBFWrAFi",
+            "type": "header",
+            "data": {
+              "text": "Aufgabenbeschreibung",
+              "level": 2
+            }
+          },
+          {
+            "id": "BOZN8YSkVZ",
+            "type": "paragraph",
+            "data": {
+              "text": "Als freiwillige:r Helfer:in unterstützt du unser Technikteam bei der Restaurierung und Instandhaltung historischer Eisenbahnfahrzeuge. Deine Tätigkeiten reichen von einfachen handwerklichen Arbeiten wie Schleifen, Streichen und Reinigen bis hin zur Mithilfe bei technischen Reparaturen."
+            }
+          },
+          {
+            "id": "JLpif5sSQz",
+            "type": "image",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/general/9955e7d8-5539-416d-b69f-017b8236567b.svg"
+              }
+            }
+          },
+          {
+            "id": "ilqOj_aViA",
+            "type": "paragraph",
+            "data": {
+              "text": "Du arbeitest in unserer Werkstatt sowie im Depot und bist Teil eines engagierten Teams, das mit viel Erfahrung und Leidenschaft historische Fahrzeuge wieder betriebsfähig macht. Ziel ist es, unsere Züge langfristig zu erhalten und bei Fahrtagen einsetzen zu können."
+            }
+          },
+          {
+            "id": "eDomFupln4",
+            "type": "header",
+            "data": {
+              "text": "Zielgruppe",
+              "level": 2
+            }
+          },
+          {
+            "id": "AdKWHZVlJI",
+            "type": "paragraph",
+            "data": {
+              "text": "Dieses Angebot richtet sich an alle, die sich für Technik, Handwerk oder Eisenbahngeschichte interessieren. Vorkenntnisse sind hilfreich, aber nicht zwingend erforderlich – wichtiger sind Motivation, Lernbereitschaft und Freude an praktischer Arbeit."
+            }
+          },
+          {
+            "id": "gumAsYr5tc",
+            "type": "header",
+            "data": {
+              "text": "Mehrwert &amp; Nutzen",
+              "level": 2
+            }
+          },
+          {
+            "id": "KsRQqVpAQM",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Einblick in historische Technik und Restaurierung",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Erwerb praktischer handwerklicher Fähigkeiten",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Zusammenarbeit in einem engagierten Team",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Möglichkeit, aktiv zur Erhaltung von Kulturgut beizutragen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Bestätigung über dein Engagement auf Wunsch",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "dcuhfz2FsU",
+            "type": "header",
+            "data": {
+              "text": "Einarbeitung &amp; Begleitung",
+              "level": 2
+            }
+          },
+          {
+            "id": "ftNiYiRBma",
+            "type": "paragraph",
+            "data": {
+              "text": "Neue Freiwillige werden durch erfahrene Vereinsmitglieder eingeschult und Schritt für Schritt an die Aufgaben herangeführt. Während der Einsätze stehen dir jederzeit Ansprechpersonen zur Seite."
+            }
+          },
+          {
+            "id": "KU10XMqihi",
+            "type": "header",
+            "data": {
+              "text": "Anforderungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "k4oFXC0wsS",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Interesse an Technik oder Handwerk",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Sorgfältige und zuverlässige Arbeitsweise",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Bereitschaft zur Teamarbeit",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Mindestalter: ca. 16 Jahre",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "Nw5U6rVBFT",
+            "type": "header",
+            "data": {
+              "text": "Rahmenbedingungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "oZ4rsbppec",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Einsatzort: Depot / Werkstatt (wechselnde Einsatzorte möglich)",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Zeitaufwand: flexibel, regelmäßig oder nach Vereinbarung",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Versicherungsschutz über den Verein",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Arbeitskleidung teilweise erforderlich (Hinweise bei Einstieg)",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1787493293299,
+        "blocks": [
+          {
+            "id": "taskSites-1774808440019",
+            "type": "taskSites",
+            "data": {
+              "title": "Einsatzort(e)",
+              "isRemote": false,
+              "isChanging": false,
+              "sites": [
+                "Musterdorf"
+              ]
+            }
+          },
+          {
+            "id": "temporalDemand-1774808442596",
+            "type": "temporalDemand",
+            "data": {
+              "durationSubtitle": "Dauer des Engagements",
+              "scheduleSubtitle": "Termine",
+              "durationType": {
+                "type": "long-term",
+                "label": "Unbefristet",
+                "description": "längerfristiger oder offener Einsatz ohne definiertes Ende",
+                "icon": "<i class=\"bi bi-calendar3\"></i>"
+              },
+              "scheduleType": {
+                "type": "flexible",
+                "label": "nach Vereinbarung",
+                "description": "Zeitliche Details werden individuell abgestimmt",
+                "icon": "<i class=\"bi bi-hand-thumbs-up\"></i>"
+              },
+              "dates": []
+            }
+          },
+          {
+            "id": "workTypeAndDemand-1774808446139",
+            "type": "workTypeAndDemand",
+            "data": {
+              "title": "Arbeitsform & Bedarf",
+              "isUrgent": false,
+              "workTypes": [
+                "individual",
+                "group"
+              ],
+              "engagementTypes": [
+                "volunteering"
+              ],
+              "demand": {
+                "prefix": "",
+                "number": 0,
+                "suffix": "Personen gesucht"
+              }
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "unterstuetzung-bei-fahrtagen": {
+    "meta": {
+      "title": "Unterstützung bei Fahrtagen",
+      "orgId": "org005",
+      "workflowSlug": "default"
+    },
+    "blockContent": {
+      "main": {
+        "time": 1787333982295,
+        "blocks": [
+          {
+            "id": "taskTeaser-1774808387752",
+            "type": "taskTeaser",
+            "data": {
+              "title": "",
+              "text": "Erlebe Eisenbahn hautnah und begleite unsere historischen Züge bei Fahrtagen! Unterstütze als Zugbegleiter:in oder im Betriebsteam und sorge für unvergessliche Erlebnisse unserer Gäste."
+            }
+          },
+          {
+            "id": "organisationTeaser-1774808391021",
+            "type": "organisationTeaser",
+            "data": {
+              "title": "Museumsbahn Musterdorf (MbMd)",
+              "text": "Der Verein Museumsbahn Musterdorf (MbMd) erhält und betreibt die historische Musterbahn. Mit viel Herzblut restaurieren unsere Mitglieder alte Waggons und Lokomotiven und machen Eisenbahngeschichte für kommende Generationen erlebbar. Regelmäßige Fahrtage, Führungen und Technik-Workshops machen die Bahn zu einem lebendigen Treffpunkt für Jung und Alt."
+            }
+          },
+          {
+            "id": "tags-1774808394247",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Kunst & Kultur"
+              ],
+              "link": "task/list?tag="
+            }
+          },
+          {
+            "id": "fmDO4nfSI_",
+            "type": "header",
+            "data": {
+              "text": "Aufgabenbeschreibung",
+              "level": 2
+            }
+          },
+          {
+            "id": "uDlS9L01-p",
+            "type": "paragraph",
+            "data": {
+              "text": "Bei unseren Fahrtagen unterstützt du aktiv den Betrieb der Museumsbahn. Je nach Interesse und Erfahrung übernimmst du Aufgaben wie die Betreuung von Fahrgästen, Fahrkartenkontrolle, Unterstützung im Zug oder Mithilfe bei organisatorischen Abläufen."
+            }
+          },
+          {
+            "id": "KAE0dzG6QU",
+            "type": "paragraph",
+            "data": {
+              "text": "Du bist direkt im Geschehen dabei und trägst dazu bei, dass unsere Besucher:innen eine sichere und spannende Reise erleben."
+            }
+          },
+          {
+            "id": "CouDej6g58",
+            "type": "header",
+            "data": {
+              "text": "Zielgruppe",
+              "level": 2
+            }
+          },
+          {
+            "id": "Kja8zX354I",
+            "type": "paragraph",
+            "data": {
+              "text": "Das Angebot richtet sich an kommunikative Menschen, die gerne mit anderen arbeiten und Interesse an Eisenbahnbetrieb haben. Besonders geeignet für Personen, die gerne im direkten Kontakt mit Besucher:innen stehen."
+            }
+          },
+          {
+            "id": "hBfSOvX-v-",
+            "type": "header",
+            "data": {
+              "text": "Mehrwert &amp; Nutzen",
+              "level": 2
+            }
+          },
+          {
+            "id": "uVeRaZtrdY",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Einblicke in den praktischen Eisenbahnbetrieb",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Arbeit in einem lebendigen Umfeld mit vielen Menschen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Stärkung von Kommunikations- und Organisationsfähigkeiten",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Gemeinschaftserlebnis im Verein",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Teilnahme an besonderen Veranstaltungen",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "VkJBi6Z_dk",
+            "type": "header",
+            "data": {
+              "text": "Einarbeitung &amp; Begleitung",
+              "level": 2
+            }
+          },
+          {
+            "id": "5hPTo5BRTW",
+            "type": "paragraph",
+            "data": {
+              "text": "Vor deinem ersten Einsatz erhältst du eine Einführung in Abläufe und Sicherheitsregeln. Während der Fahrtage wirst du von erfahrenen Teammitgliedern begleitet."
+            }
+          },
+          {
+            "id": "0yYOrFgtaD",
+            "type": "header",
+            "data": {
+              "text": "Anforderungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "GFee-YM97C",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Freundliches und offenes Auftreten",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Verantwortungsbewusstsein",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Zuverlässigkeit bei vereinbarten Terminen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Mindestalter: ca. 18 Jahre für bestimmte Funktionen",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "1aS_Uh0IqJ",
+            "type": "header",
+            "data": {
+              "text": "Rahmenbedingungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "0LpaEkjDqK",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "<b>Einsatzzeiten</b>: vor allem an fixen Fahrtagen (Wochenenden/Feiertage)",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Dauer</b>: einzelne Einsätze oder regelmäßig möglich",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Versicherungsschutz über den Verein",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Verpflegung je nach Einsatz möglich",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1787333982296,
+        "blocks": [
+          {
+            "id": "taskSites-1774808440019",
+            "type": "taskSites",
+            "data": {
+              "title": "Einsatzort(e)",
+              "isRemote": false,
+              "isChanging": false,
+              "sites": [
+                "Musterdorf"
+              ]
+            }
+          },
+          {
+            "id": "temporalDemand-1774808442596",
+            "type": "temporalDemand",
+            "data": {
+              "durationSubtitle": "Dauer des Engagements",
+              "scheduleSubtitle": "Termine",
+              "durationType": {
+                "type": "long-term",
+                "label": "Unbefristet",
+                "description": "längerfristiger oder offener Einsatz ohne definiertes Ende",
+                "icon": "<i class=\"bi bi-calendar3\"></i>"
+              },
+              "scheduleType": {
+                "type": "recurring",
+                "label": "regelmäßig",
+                "description": "z. B. wöchentlich oder monatlich",
+                "icon": "<i class=\"bi bi-arrow-repeat\"></i>"
+              },
+              "dates": "an Fahrtagen meist Wochenenden/Feiertage"
+            }
+          },
+          {
+            "id": "workTypeAndDemand-1774808446139",
+            "type": "workTypeAndDemand",
+            "data": {
+              "title": "Arbeitsform & Bedarf",
+              "isUrgent": false,
+              "workTypes": [
+                "individual",
+                "group"
+              ],
+              "engagementTypes": [
+                "volunteering"
+              ],
+              "demand": {
+                "prefix": "",
+                "number": 0,
+                "suffix": "Personen gesucht"
+              }
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "zivildienst-in-der-schuldnerberatung": {
+    "meta": {
+      "title": "Zivildienst in der Schuldnerberatung",
+      "orgId": "org006",
+      "workflowSlug": "bewerbungsgespraech"
+    },
+    "blockContent": {
+      "main": {
+        "time": 1775471538723,
+        "blocks": [
+          {
+            "id": "taskTeaser-1775470854087",
+            "type": "taskTeaser",
+            "data": {
+              "title": "Zivildienst",
+              "text": "Unterstütze Menschen auf dem Weg aus der Schuldenfalle und erhalte wertvolle Einblicke in soziale Beratungsarbeit. Als Zivildiener bist du Teil unseres Teams und hilfst im direkten Kontakt mit Klient:innen sowie im organisatorischen Alltag. Eine sinnstiftende Tätigkeit mit echter Wirkung."
+            }
+          },
+          {
+            "id": "tags-1775470862247",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Menschen in besonderen Lebenslagen",
+                "Bildung",
+                "Gesundheit & Selbsthilfe"
+              ],
+              "link": "task/list?tag="
+            }
+          },
+          {
+            "id": "3W030mBFAl",
+            "type": "header",
+            "data": {
+              "text": "Aufgabenbeschreibung",
+              "level": 2
+            }
+          },
+          {
+            "id": "efmDjo3hk5",
+            "type": "paragraph",
+            "data": {
+              "text": "Als Zivildiener bei „Börsenschluss“ bist du aktiv in den Alltag der Schuldnerberatung eingebunden. Du unterstützt sowohl im direkten Klient:innenkontakt als auch im organisatorischen Hintergrund."
+            }
+          },
+          {
+            "id": "kp3bOxqm13",
+            "type": "paragraph",
+            "data": {
+              "text": "Ein typischer Einsatz umfasst den Empfang von Ratsuchenden, die Terminorganisation sowie die Unterstützung der Berater:innen bei der Vorbereitung von Gesprächen. Du hilfst beim Sortieren und Aufbereiten von Unterlagen, führst einfache Recherchen durch und bekommst Einblicke in finanzielle und rechtliche Fragestellungen rund um Schulden."
+            }
+          },
+          {
+            "id": "4lvShl4wgN",
+            "type": "paragraph",
+            "data": {
+              "text": "Die Tätigkeit findet überwiegend in unseren Beratungsräumen statt und bietet dir die Möglichkeit, die Lebensrealitäten von Menschen in finanziellen Krisen kennenzulernen und aktiv zu deren Stabilisierung beizutragen."
+            }
+          },
+          {
+            "id": "xomJ6v64F0",
+            "type": "header",
+            "data": {
+              "text": "Ablauf &amp; Prozess",
+              "level": 2
+            }
+          },
+          {
+            "id": "6jF_TWs-JB",
+            "type": "paragraph",
+            "data": {
+              "text": "Nach deiner Bewerbung über das VMS laden wir dich zu einem persönlichen Kennenlerngespräch ein. Dabei erhältst du einen Einblick in unsere Arbeit und kannst offene Fragen klären."
+            }
+          },
+          {
+            "id": "dgM417nuwr",
+            "type": "paragraph",
+            "data": {
+              "text": "Nach der Zusage beginnt dein Zivildienst mit einer strukturierten Einführung. In den ersten Wochen lernst du die Abläufe, das Team und die wichtigsten Aufgabenbereiche kennen. Der Einstieg erfolgt schrittweise, sodass du dich sicher in deine Rolle einfinden kannst."
+            }
+          },
+          {
+            "id": "7KWeRc9TGS",
+            "type": "paragraph",
+            "data": {
+              "text": "Ein Einstieg ist zu den regulären Zivildienst-Terminen möglich."
+            }
+          },
+          {
+            "id": "rEhJLIH_y9",
+            "type": "header",
+            "data": {
+              "text": "Einarbeitung &amp; Begleitung",
+              "level": 2
+            }
+          },
+          {
+            "id": "e7cjHZGK3P",
+            "type": "paragraph",
+            "data": {
+              "text": "Du wirst von Anfang an durch erfahrene Mitarbeiter:innen begleitet. Eine strukturierte Einschulung vermittelt dir die Grundlagen der Schuldnerberatung, Datenschutzbestimmungen und den Umgang mit Klient:innen."
+            }
+          },
+          {
+            "id": "lWwDOwaBPN",
+            "type": "paragraph",
+            "data": {
+              "text": "Während deines gesamten Einsatzes steht dir eine feste Ansprechperson zur Seite. Regelmäßige Teammeetings sowie Austauschmöglichkeiten helfen dir, deine Erfahrungen zu reflektieren und Fragen zu klären."
+            }
+          },
+          {
+            "id": "divider-1775470884223",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "-1WZ1MFmTH",
+            "type": "header",
+            "data": {
+              "text": "Anforderungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "QnozttcPby",
+            "type": "paragraph",
+            "data": {
+              "text": "Für den Zivildienst bei uns solltest du mitbringen:"
+            }
+          },
+          {
+            "id": "e_OvlJNnsq",
+            "type": "list",
+            "data": {
+              "style": "checklist",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Interesse an sozialen Themen und wirtschaftlichen Zusammenhängen",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Empathie und respektvollen Umgang mit Menschen in schwierigen Lebenslagen",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Zuverlässigkeit und Verantwortungsbewusstsein",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Grundlegende EDV-Kenntnisse",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Bereitschaft zur Verschwiegenheit",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "A8V8iCl1Lr",
+            "type": "paragraph",
+            "data": {
+              "text": "Vorkenntnisse im Bereich Beratung sind nicht erforderlich."
+            }
+          },
+          {
+            "id": "AflJbR3n8N",
+            "type": "header",
+            "data": {
+              "text": "Rahmenbedingungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "dcfxQjgcEy",
+            "type": "paragraph",
+            "data": {
+              "text": "Der Zivildienst erfolgt im Rahmen der gesetzlichen Bestimmungen. Du bist während deiner Tätigkeit sozialversichert und erhältst die vorgesehene Vergütung."
+            }
+          },
+          {
+            "id": "_ULhYac_3o",
+            "type": "paragraph",
+            "data": {
+              "text": "Zusätzlich bieten wir:"
+            }
+          },
+          {
+            "id": "9CkjFQ2YXQ",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Geregelte Arbeitszeiten (werktags)\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Einbindung in ein professionelles Team\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Teilnahme an internen Besprechungen\n",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "dgItRETG4A",
+            "type": "paragraph",
+            "data": {
+              "text": "Aufgrund der sensiblen Daten verpflichtest du dich zur Einhaltung der Datenschutz- und Verschwiegenheitsrichtlinien."
+            }
+          },
+          {
+            "id": "taskSites-1775471070420",
+            "type": "taskSites",
+            "data": {
+              "title": "Einsatzort(e)",
+              "isRemote": false,
+              "isChanging": false,
+              "sites": [
+                "Musterstadt"
+              ]
+            }
+          },
+          {
+            "id": "divider-1775471080457",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "contact-1775471082631",
+            "type": "contact",
+            "data": {
+              "contacts": [
+                {
+                  "type": "person",
+                  "value": "Koordination Freiwilligenarbeit"
+                },
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "bewerbung@boersenschluss.org"
+                },
+                {
+                  "type": "phone",
+                  "label": "Telefon",
+                  "value": "+43 123 456789-1"
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1775471538723,
+        "blocks": [
+          {
+            "id": "temporalDemand-1775471062097",
+            "type": "temporalDemand",
+            "data": {
+              "durationSubtitle": "Dauer des Engagements",
+              "scheduleSubtitle": "Termine",
+              "durationType": {
+                "type": "short-term",
+                "label": "Befristet",
+                "description": "Einsatz mit festem Start- und Enddatum",
+                "icon": "<i class=\"bi bi-calendar3-week\"></i>"
+              },
+              "scheduleType": {
+                "type": "single",
+                "label": "fixierte Termine",
+                "description": "mehrere, nicht regelmäßig stattfindende Termine",
+                "icon": "<i class=\"bi bi-calendar-check\"></i>"
+              },
+              "dates": [
+                {
+                  "startDate": "01.05.2026",
+                  "endDate": null,
+                  "startTime": "",
+                  "endTime": ""
+                },
+                {
+                  "startDate": "01.08.2026",
+                  "endDate": null,
+                  "startTime": "",
+                  "endTime": ""
+                },
+                {
+                  "startDate": "01.11.2026",
+                  "endDate": null,
+                  "startTime": "",
+                  "endTime": ""
+                }
+              ]
+            }
+          },
+          {
+            "id": "workTypeAndDemand-1775471064321",
+            "type": "workTypeAndDemand",
+            "data": {
+              "title": "Arbeitsform & Bedarf",
+              "isUrgent": false,
+              "workTypes": [
+                "individual"
+              ],
+              "engagementTypes": [
+                "voluntaryService"
+              ],
+              "demand": {
+                "prefix": "Pro Turnus",
+                "number": 1,
+                "suffix": "Personen gesucht"
+              }
+            }
+          },
+          {
+            "id": "CPk-svVRhU",
+            "type": "linkTool",
+            "data": {
+              "link": "boersenschluss.org/zivildienst",
+              "meta": {
+                "title": "boersenschluss.org/zivildienst",
+                "description": "Vorschau für boersenschluss.org/zivildienst",
+                "image": {
+                  "url": ""
+                }
+              }
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  }
+}

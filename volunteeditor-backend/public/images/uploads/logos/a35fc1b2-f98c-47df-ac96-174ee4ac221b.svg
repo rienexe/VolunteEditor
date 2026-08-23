@@ -1,0 +1,77 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0A1A"/>
+      <stop offset="100%" stop-color="#1A0A2E"/>
+    </linearGradient>
+    <linearGradient id="spotlightL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="spotlightR" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E040FB" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#E040FB" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="starGrad8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FFA000"/>
+    </linearGradient>
+    <filter id="glow8">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="url(#bg8)"/>
+
+  <!-- Spotlight beams -->
+  <polygon points="80,200 60,90 130,160" fill="url(#spotlightL)" opacity="0.3"/>
+  <polygon points="220,200 240,90 170,160" fill="url(#spotlightR)" opacity="0.3"/>
+
+  <!-- Stage curtains hint -->
+  <path d="M22,30 Q50,80 30,150 Q15,200 22,270" fill="#4A0A3A" opacity="0.5"/>
+  <path d="M278,30 Q250,80 270,150 Q285,200 278,270" fill="#4A0A3A" opacity="0.5"/>
+
+  <!-- Confetti dots -->
+  <circle cx="75" cy="75" r="4" fill="#FF5252" opacity="0.8"/>
+  <circle cx="230" cy="65" r="3" fill="#64FFDA" opacity="0.7"/>
+  <circle cx="60" cy="130" r="3" fill="#FFD740" opacity="0.6"/>
+  <circle cx="248" cy="140" r="4" fill="#FF6D00" opacity="0.7"/>
+  <circle cx="90" cy="200" r="3" fill="#E040FB" opacity="0.6"/>
+  <circle cx="218" cy="195" r="3" fill="#FFD700" opacity="0.8"/>
+  <rect x="200" y="80" width="6" height="6" rx="1" fill="#FF5252" opacity="0.7" transform="rotate(30,203,83)"/>
+  <rect x="95" y="95" width="5" height="5" rx="1" fill="#64FFDA" opacity="0.7" transform="rotate(45,97,97)"/>
+  <rect x="240" y="185" width="5" height="5" rx="1" fill="#FFD700" opacity="0.6" transform="rotate(20,242,187)"/>
+
+  <!-- Central star burst -->
+  <polygon points="150,62 156,90 168,75 162,100 182,88 170,110 196,107 178,122 202,128 180,136 200,150 178,151 192,168 172,162 178,186 160,174 154,198 150,175 146,198 140,174 122,186 128,162 108,168 114,151 92,150 112,136 90,128 114,122 96,107 122,110 110,88 130,100 124,75 136,90" fill="url(#starGrad8)" filter="url(#glow8)" opacity="0.2"/>
+
+  <!-- Main big star -->
+  <polygon points="150,82 155,100 168,95 158,108 175,112 160,118 168,134 150,126 132,134 140,118 125,112 142,108 132,95 145,100" fill="url(#starGrad8)" filter="url(#glow8)"/>
+
+  <!-- Inner star glow -->
+  <polygon points="150,90 153,102 162,98 156,107 165,111 155,115 160,124 150,120 140,124 145,115 135,111 144,107 138,98 147,102" fill="#FFF0A0" opacity="0.6"/>
+
+  <!-- Spotlights equipment -->
+  <!-- Left spotlight lamp -->
+  <ellipse cx="80" cy="198" rx="14" ry="8" fill="#3A3A5A"/>
+  <ellipse cx="80" cy="196" rx="10" ry="6" fill="#FFD700" opacity="0.4"/>
+  <rect x="73" y="192" width="14" height="8" rx="2" fill="#2A2A4A"/>
+  <line x1="80" y1="200" x2="80" y2="218" stroke="#5A5A7A" stroke-width="3"/>
+
+  <!-- Right spotlight lamp -->
+  <ellipse cx="220" cy="198" rx="14" ry="8" fill="#3A3A5A"/>
+  <ellipse cx="220" cy="196" rx="10" ry="6" fill="#E040FB" opacity="0.4"/>
+  <rect x="213" y="192" width="14" height="8" rx="2" fill="#2A2A4A"/>
+  <line x1="220" y1="200" x2="220" y2="218" stroke="#5A5A7A" stroke-width="3"/>
+
+  <!-- Stage floor -->
+  <rect x="55" y="215" width="190" height="6" rx="3" fill="#2A1A3A"/>
+  <rect x="55" y="218" width="190" height="2" fill="#4A3A5A" opacity="0.5"/>
+
+  <!-- Text -->
+  <text x="150" y="243" text-anchor="middle" font-size="11" font-weight="bold" fill="#E040FB" letter-spacing="3" font-family="sans-serif">MUSTERSTADT</text>
+  <text x="150" y="261" text-anchor="middle" font-size="14" font-weight="900" fill="white" letter-spacing="2" font-family="'Arial Black', sans-serif">EVENT</text>
+  <text x="150" y="278" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFD700" letter-spacing="4" font-family="sans-serif">MANAGEMENT</text>
+</svg>

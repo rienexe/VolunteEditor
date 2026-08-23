@@ -1,0 +1,118 @@
+{
+  "org001": {
+    "name": "Alters- und Pflegeheim Musterdorf",
+    "slug": "alters-und-pflegeheim-musterdorf",
+    "logo": "",
+    "description": "Unser Haus versteht sich als Ort der Würde, Sicherheit und Gemeinschaft. Neben professioneller Pflege schaffen wir Räume für Begegnung, Aktivität und Lebensfreude. Freiwilliges Engagement ist ein wichtiger Bestandteil unseres Alltags.",
+    "assignedVolunteers": [
+      "vol003",
+      "vol007",
+      "vol012",
+      "vol019",
+      "vol025"
+    ]
+  },
+  "org002": {
+    "name": "Die Stadtdiener",
+    "slug": "die-stadtdiener",
+    "logo": "http://localhost:3000/images/uploads/logos/7c5a6497-1d19-4722-99fa-4f4fac76dabd.svg",
+    "description": "Die Stadtdiener sind ein gemeinnütziger Verein für soziale Stadtentwicklung in Musterstadt. Seit 2012 setzen wir uns dafür ein, dass Nachbarschaften wachsen, öffentliche Räume aufblühen und Menschen zusammenkommen.",
+    "assignedVolunteers": [
+      "vol002",
+      "vol005",
+      "vol009",
+      "vol011",
+      "vol013",
+      "vol015"
+    ]
+  },
+  "org003": {
+    "name": "MitDirundMir",
+    "slug": "mitdirundmir",
+    "logo": "",
+    "description": "<b>MitDirundMir</b> ist eine Einrichtung zur Freizeitgestaltung und Werkstatt für beeinträchtigte Personen in Musterstadt. Wir schaffen seit 2015 kreative und geschützte Räume, in denen Menschen ihre Fähigkeiten entdecken und weiterentwickeln können. Ob Holzwerkstatt, Kreativatelier oder gemeinsames Kochen – bei uns stehen Teilhabe, Selbstbestimmung und Gemeinschaft im Mittelpunkt.",
+    "assignedVolunteers": [
+      "vol006",
+      "vol018",
+      "vol020",
+      "vol007",
+      "vol003"
+    ]
+  },
+  "org004": {
+    "name": "Mustergabe",
+    "slug": "mustergabe",
+    "logo": "http://localhost:3000/images/uploads/logos/9fb4068c-301c-4064-b4d3-a6d4ca170c89.svg",
+    "description": "Mustergabe bietet Stadtführungen durch Musterstadt an und verbindet Geschichte mit lebendigen Geschichten aus dem Alltag. Unsere ehrenamtlichen Guides zeigen versteckte Winkel, historische Plätze und erzählen Anekdoten, die man in keinem Reiseführer findet. Seit 2018 begeistern wir Einheimische und Gäste für die Vielfalt unserer Stadt.",
+    "assignedVolunteers": [
+      "vol001",
+      "vol008",
+      "vol012",
+      "vol019"
+    ]
+  },
+  "org005": {
+    "name": "Museumsbahn Musterdorf (MbMd)",
+    "slug": "museumsbahn-musterdorf-mbmd",
+    "logo": "http://localhost:3000/images/uploads/logos/46e5f015-1135-47b1-ad95-01279594a00f.svg",
+    "description": "Der Verein Museumsbahn Musterdorf (MbMd) erhält und betreibt die historische Musterbahn. Mit viel Herzblut restaurieren unsere Mitglieder alte Waggons und Lokomotiven und machen Eisenbahngeschichte für kommende Generationen erlebbar. Regelmäßige Fahrtage, Führungen und Technik-Workshops machen die Bahn zu einem lebendigen Treffpunkt für Jung und Alt.",
+    "assignedVolunteers": [
+      "vol004",
+      "vol010",
+      "vol014",
+      "vol016",
+      "vol021"
+    ]
+  },
+  "org006": {
+    "name": "Börsenschluss",
+    "slug": "boersenschluss",
+    "logo": "http://localhost:3000/images/uploads/logos/a7efabde-6e54-4595-9a10-b878377c48a4.svg",
+    "description": "Die Schuldnerberatung „Börsenschluss“ unterstützt Menschen in finanziellen Krisensituationen dabei, neue Perspektiven zu entwickeln und ihre wirtschaftliche Selbstständigkeit zurückzugewinnen. Unser Ziel ist es, Ratsuchende individuell, vertraulich und lösungsorientiert auf ihrem Weg aus der Verschuldung zu begleiten.",
+    "assignedVolunteers": [
+      "vol005",
+      "vol009",
+      "vol017",
+      "vol022"
+    ]
+  },
+  "org007": {
+    "name": "Alles für die Bohne",
+    "slug": "alles-fuer-die-bohne",
+    "logo": "http://localhost:3000/images/uploads/logos/12564cab-0ba4-4cf9-bf2c-6516dbd2a96b.svg",
+    "description": "Alles für die Bohne wurde gegründet, um einen offenen Treffpunkt im Ort zu schaffen. Unser Ziel ist es, Menschen zusammenzubringen – unabhängig von Alter, Herkunft oder Lebenssituation.",
+    "assignedVolunteers": [
+      "vol002",
+      "vol011",
+      "vol018",
+      "vol023",
+      "vol024"
+    ]
+  },
+  "org008": {
+    "name": "Musterstadt Eventmanagement",
+    "slug": "musterstadt-eventmanagement",
+    "logo": "http://localhost:3000/images/uploads/logos/a35fc1b2-f98c-47df-ac96-174ee4ac221b.svg",
+    "description": "Musterstadt Eventmanagement organisiert gemeinnützige Veranstaltungen, Stadtfeste und Benefizaktionen in Musterstadt. Mit einem engagierten Team aus Haupt- und Ehrenamtlichen planen wir Events, die Menschen zusammenbringen und soziale Projekte sichtbar machen.",
+    "assignedVolunteers": [
+      "vol006",
+      "vol010",
+      "vol013",
+      "vol020",
+      "vol026"
+    ]
+  },
+  "org009": {
+    "name": "Mustergültige Jugend",
+    "slug": "mustergueltige-jugend",
+    "logo": "http://localhost:3000/images/uploads/logos/e6a43600-b405-4974-91f1-c7dbd333e5cd.svg",
+    "description": "Die Mustergültige Jugend ist die Landjugend in Musterdorf und engagiert sich für Gemeinschaft, Brauchtum und nachhaltige Entwicklung im ländlichen Raum. Wir organisieren Dorffeste, Bildungsangebote und Umweltprojekte und fördern den Austausch zwischen den Generationen.",
+    "assignedVolunteers": [
+      "vol001",
+      "vol008",
+      "vol015",
+      "vol021",
+      "vol027"
+    ]
+  }
+}

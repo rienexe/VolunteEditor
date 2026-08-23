@@ -1,0 +1,128 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFE8D6"/>
+      <stop offset="100%" stop-color="#FFF5EE"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#C8E6C0"/>
+      <stop offset="100%" stop-color="#A5D49A"/>
+    </linearGradient>
+    <linearGradient id="wallGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FDE8D8"/>
+      <stop offset="100%" stop-color="#F5D0BC"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sky -->
+  <rect width="800" height="450" fill="url(#sky)"/>
+
+  <!-- Soft clouds -->
+  <ellipse cx="120" cy="80" rx="70" ry="30" fill="white" opacity="0.7"/>
+  <ellipse cx="170" cy="70" rx="50" ry="25" fill="white" opacity="0.7"/>
+  <ellipse cx="80" cy="88" rx="40" ry="20" fill="white" opacity="0.6"/>
+  <ellipse cx="600" cy="60" rx="80" ry="28" fill="white" opacity="0.65"/>
+  <ellipse cx="660" cy="52" rx="55" ry="22" fill="white" opacity="0.6"/>
+  <ellipse cx="720" cy="68" rx="45" ry="18" fill="white" opacity="0.55"/>
+
+  <!-- Sun -->
+  <circle cx="680" cy="100" r="45" fill="#FFD070" opacity="0.5"/>
+  <circle cx="680" cy="100" r="32" fill="#FFE080" opacity="0.6"/>
+
+  <!-- Ground -->
+  <rect x="0" y="310" width="800" height="140" fill="url(#ground)"/>
+  <!-- Path -->
+  <path d="M330,450 Q370,340 400,310 Q430,340 470,450" fill="#D4C0A0" opacity="0.5"/>
+
+  <!-- Flower beds -->
+  <ellipse cx="200" cy="318" rx="60" ry="12" fill="#A8C898" opacity="0.8"/>
+  <circle cx="180" cy="312" r="6" fill="#FF9090"/>
+  <circle cx="195" cy="308" r="5" fill="#FFB0C0"/>
+  <circle cx="210" cy="311" r="6" fill="#FF8080"/>
+  <circle cx="225" cy="309" r="5" fill="#FFD0A0"/>
+  <circle cx="240" cy="313" r="6" fill="#FF9090"/>
+
+  <ellipse cx="600" cy="318" rx="60" ry="12" fill="#A8C898" opacity="0.8"/>
+  <circle cx="580" cy="312" r="6" fill="#FFA0C0"/>
+  <circle cx="595" cy="308" r="5" fill="#FF8080"/>
+  <circle cx="610" cy="311" r="6" fill="#FFB090"/>
+  <circle cx="625" cy="309" r="5" fill="#FF9090"/>
+
+  <!-- Main building -->
+  <rect x="220" y="200" width="360" height="120" fill="url(#wallGrad)" stroke="#D4A080" stroke-width="2"/>
+  <!-- Roof -->
+  <polygon points="200,202 400,110 600,202" fill="#D4785A" stroke="#B8603E" stroke-width="2"/>
+  <!-- Roof tiles hint -->
+  <g stroke="#B8603E" stroke-width="0.8" opacity="0.5">
+    <line x1="260" y1="180" x2="300" y2="200"/>
+    <line x1="310" y1="158" x2="360" y2="200"/>
+    <line x1="370" y1="155" x2="410" y2="200"/>
+    <line x1="420" y1="160" x2="460" y2="200"/>
+    <line x1="480" y1="175" x2="510" y2="200"/>
+  </g>
+  <!-- Chimney -->
+  <rect x="480" y="140" width="20" height="42" fill="#C07050"/>
+  <rect x="476" y="136" width="28" height="8" fill="#A86040"/>
+  <!-- Chimney smoke -->
+  <path d="M490,130 Q484,115 492,102 Q500,89 494,76" fill="none" stroke="#C0B0A8" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+
+  <!-- Windows -->
+  <rect x="245" y="222" width="55" height="45" rx="4" fill="#B8D8E8" stroke="#C09070" stroke-width="1.5"/>
+  <line x1="272" y1="222" x2="272" y2="267" stroke="#C09070" stroke-width="1"/>
+  <line x1="245" y1="244" x2="300" y2="244" stroke="#C09070" stroke-width="1"/>
+
+  <rect x="340" y="222" width="55" height="45" rx="4" fill="#B8D8E8" stroke="#C09070" stroke-width="1.5"/>
+  <line x1="367" y1="222" x2="367" y2="267" stroke="#C09070" stroke-width="1"/>
+  <line x1="340" y1="244" x2="395" y2="244" stroke="#C09070" stroke-width="1"/>
+
+  <rect x="435" y="222" width="55" height="45" rx="4" fill="#B8D8E8" stroke="#C09070" stroke-width="1.5"/>
+  <line x1="462" y1="222" x2="462" y2="267" stroke="#C09070" stroke-width="1"/>
+  <line x1="435" y1="244" x2="490" y2="244" stroke="#C09070" stroke-width="1"/>
+
+  <!-- Door -->
+  <rect x="368" y="272" width="64" height="48" rx="6" fill="#C08060"/>
+  <rect x="372" y="276" width="56" height="40" rx="4" fill="#B07050"/>
+  <circle cx="393" cy="298" r="4" fill="#D4A050"/>
+  <circle cx="407" cy="298" r="4" fill="#D4A050"/>
+
+  <!-- People on bench -->
+  <!-- Bench -->
+  <rect x="155" y="295" width="80" height="8" rx="3" fill="#A0784A"/>
+  <rect x="163" y="303" width="8" height="15" fill="#A0784A"/>
+  <rect x="219" y="303" width="8" height="15" fill="#A0784A"/>
+
+  <!-- Elder person 1 sitting -->
+  <circle cx="180" cy="278" r="12" fill="#F5C8A0"/>
+  <path d="M168,295 Q175,285 188,285 Q198,285 198,298 L168,298 Z" fill="#8090C0"/>
+  <!-- Cane -->
+  <line x1="198" y1="298" x2="210" y2="318" stroke="#A0784A" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Elder person 2 sitting -->
+  <circle cx="218" cy="278" r="12" fill="#F0BCA0"/>
+  <path d="M206,295 Q213,285 225,285 Q235,285 235,298 L206,298 Z" fill="#C09080"/>
+
+  <!-- Caregiver standing -->
+  <circle cx="150" cy="265" r="13" fill="#F5C8A0"/>
+  <path d="M135,320 Q143,285 162,285 Q168,285 165,320 Z" fill="#80B890"/>
+  <!-- Hair -->
+  <path d="M137,262 Q142,252 150,250 Q158,252 163,262" fill="#604838" opacity="0.8"/>
+
+  <!-- Tree left -->
+  <rect x="90" y="235" width="12" height="75" fill="#8B6040"/>
+  <circle cx="96" cy="215" r="40" fill="#5A9A50"/>
+  <circle cx="76" cy="228" r="28" fill="#4A8A40"/>
+  <circle cx="116" cy="225" r="30" fill="#5A9A50"/>
+
+  <!-- Tree right -->
+  <rect x="690" y="240" width="12" height="70" fill="#8B6040"/>
+  <circle cx="696" cy="220" r="38" fill="#5A9A50"/>
+  <circle cx="672" cy="233" r="26" fill="#4A8A40"/>
+  <circle cx="716" cy="230" r="28" fill="#5A9A50"/>
+
+  <!-- Heart sign -->
+  <path d="M395,155 C395,155 388,148 383,151 C378,154 378,160 383,164 L395,174 L407,164 C412,160 412,154 407,151 C402,148 395,155 395,155Z" fill="#E85070" opacity="0.85"/>
+
+  <!-- Label -->
+  <rect x="0" y="415" width="800" height="35" fill="#C08060" opacity="0.85"/>
+  <text x="400" y="437" text-anchor="middle" font-size="14" font-weight="bold" fill="white" font-family="Georgia, serif" letter-spacing="2">ALTERS- UND PFLEGEHEIM MUSTERDORF</text>
+</svg>

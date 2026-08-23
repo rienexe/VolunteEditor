@@ -1,0 +1,102 @@
+{
+  "organisations": [
+    {
+      "id": "org001",
+      "users": [
+        {
+          "name": "Anna Muster",
+          "email": "org001@org.com",
+          "password": ""
+        }
+      ]
+    },
+    {
+      "id": "org002",
+      "users": [
+        {
+          "name": "Herbert Muster",
+          "email": "org002@org.com",
+          "password": ""
+        }
+      ]
+    },
+    {
+      "id": "org003",
+      "users": [
+        {
+          "name": "Tom Muster",
+          "email": "org003@org.com",
+          "password": ""
+        }
+      ]
+    },
+    {
+      "id": "org004",
+      "users": [
+        {
+          "name": "Lisa Muster",
+          "email": "org004@org.com",
+          "password": ""
+        }
+      ]
+    },
+    {
+      "id": "org005",
+      "users": [
+        {
+          "name": "Paul Muster",
+          "email": "org005@org.com",
+          "password": ""
+        }
+      ]
+    },
+    {
+      "id": "org006",
+      "users": [
+        {
+          "name": "Martha Muster",
+          "email": "org006@org.com",
+          "password": ""
+        }
+      ]
+    },
+    {
+      "id": "org007",
+      "users": [
+        {
+          "name": "Angelika Muster",
+          "email": "org007@org.com",
+          "password": ""
+        }
+      ]
+    },
+    {
+      "id": "org008",
+      "users": [
+        {
+          "name": "Georg Muster",
+          "email": "org008@org.com",
+          "password": ""
+        }
+      ]
+    },
+    {
+      "id": "org009",
+      "users": [
+        {
+          "name": "Barbara Muster",
+          "email": "org009@org.com",
+          "password": ""
+        }
+      ]
+    }
+  ],
+  "volunteers": [
+    {
+      "id": "vol001",
+      "name": "Jana Muster",
+      "email": "vol001@vol.com",
+      "password": ""
+    }
+  ]
+}

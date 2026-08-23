@@ -1,0 +1,2902 @@
+{
+  "org001": {
+    "blockContent": {
+      "main": {
+        "time": 1787325283496,
+        "blocks": [
+          {
+            "id": "o1_about",
+            "type": "aboutUs",
+            "data": {
+              "title": "Über uns",
+              "text": "Unser Haus versteht sich als Ort der Würde, Sicherheit und Gemeinschaft. Neben professioneller Pflege schaffen wir Räume für Begegnung, Aktivität und Lebensfreude. Freiwilliges Engagement ist ein wichtiger Bestandteil unseres Alltags."
+            }
+          },
+          {
+            "id": "dMJktqO2ZT",
+            "type": "header",
+            "data": {
+              "text": "Freiwillig engagieren im Alters- und Pflegeheim Musterdorf",
+              "level": 2
+            }
+          },
+          {
+            "id": "uhcBwKPYtd",
+            "type": "paragraph",
+            "data": {
+              "text": "Seit 1987 ist das Alters- und Pflegeheim Musterdorf ein vertrautes Zuhause für ältere Menschen in unserer Gemeinde. Rund 68 Bewohnerinnen und Bewohner leben bei uns und werden von unserem Pflege- und Betreuungsteam begleitet."
+            }
+          },
+          {
+            "id": "9mVyjbio3r",
+            "type": "paragraph",
+            "data": {
+              "text": "Neben professioneller Pflege ist uns eines besonders wichtig: <b>menschliche Nähe</b>, <b>Zeit für Gespräche</b> und <b>gemeinsame Erlebnisse</b>. Genau hier leisten freiwillig Engagierte einen wertvollen Beitrag."
+            }
+          },
+          {
+            "id": "-3d5Xb55CP",
+            "type": "header",
+            "data": {
+              "text": "Warum freiwilliges Engagement bei uns so wichtig ist",
+              "level": 3
+            }
+          },
+          {
+            "id": "eWC3f6bhDk",
+            "type": "paragraph",
+            "data": {
+              "text": "Viele unserer Bewohnerinnen und Bewohner freuen sich über zusätzliche Begegnungen im Alltag – über ein Gespräch, einen Spaziergang oder gemeinsame Aktivitäten."
+            }
+          },
+          {
+            "id": "TwobuOs0p_",
+            "type": "paragraph",
+            "data": {
+              "text": "Freiwillige schenken Zeit, Aufmerksamkeit und neue Impulse. Sie tragen dazu bei, dass unser Haus nicht nur ein Pflegeort ist, sondern ein lebendiger Lebensraum."
+            }
+          },
+          {
+            "id": "8vjkdj0XrA",
+            "type": "header",
+            "data": {
+              "text": "Wie du unsere Bewohner unterstützen kannst",
+              "level": 3
+            }
+          },
+          {
+            "id": "FZgeB-rIA-",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Spielenachmittage",
+                "Kreativrunde",
+                "Musik",
+                "Erinnerung",
+                "Feste im Jahreskreis"
+              ],
+              "link": null
+            }
+          },
+          {
+            "id": "svOZgE-IsX",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Besuchsdienst und Gespräche mit Bewohnerinnen und Bewohnern",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Begleitung bei Spaziergängen oder Ausflügen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Unterstützung bei Spielen, Basteln oder Kreativangeboten",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Mithilfe bei Festen und Veranstaltungen ",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Vorlesen oder gemeinsames Musikhören",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Unterstützung bei kulturellen oder generationsübergreifenden Angeboten",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "ypZJaXQQrz",
+            "type": "image",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/general/be46b044-a792-41fd-a4c5-6f319b9186e0.svg"
+              }
+            }
+          },
+          {
+            "id": "NNlS2ImCfG",
+            "type": "header",
+            "data": {
+              "text": "Was freiwilliges Engagement bei uns besonders macht",
+              "level": 3
+            }
+          },
+          {
+            "id": "lCWghzfshE",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Direkter Kontakt zu Menschen und ihren Lebensgeschichten",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Eine sinnvolle Tätigkeit mit spürbarer Wirkung",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Begleitung und Ansprechpartner im Haus",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Flexible Einsatzmöglichkeiten",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Ein wertschätzendes Umfeld",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "m0nImCIFKx",
+            "type": "header",
+            "data": {
+              "text": "Gemeinschaft im Alltag",
+              "level": 3
+            }
+          },
+          {
+            "id": "Lofp5MrHD_",
+            "type": "paragraph",
+            "data": {
+              "text": "Neben Pflege und Betreuung legen wir großen Wert auf gemeinschaftliche Aktivitäten. Regelmäßig finden im Haus kleine Veranstaltungen, Bewegungsangebote oder kreative Nachmittage statt."
+            }
+          },
+          {
+            "id": "seVeLQl5JX",
+            "type": "paragraph",
+            "data": {
+              "text": "Freiwillige helfen uns dabei, diese Angebote lebendig zu gestalten und neue Ideen einzubringen."
+            }
+          },
+          {
+            "id": "H43OCBuBPX",
+            "type": "header",
+            "data": {
+              "text": "Interesse an einem Engagement?",
+              "level": 2
+            }
+          },
+          {
+            "id": "ALm_y6ZhV-",
+            "type": "paragraph",
+            "data": {
+              "text": "Wenn du Freude am Umgang mit älteren Menschen hast und dir vorstellen kannst, Zeit mit unseren Bewohnerinnen und Bewohnern zu verbringen, freuen wir uns über deine Unterstützung."
+            }
+          },
+          {
+            "id": "CjrxTf-A2J",
+            "type": "paragraph",
+            "data": {
+              "text": "Über das Volunteer-System kannst du aktuelle Einsatzmöglichkeiten entdecken und dich ganz unkompliziert anmelden."
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1787325283497,
+        "blocks": [
+          {
+            "id": "0h27aiK8x7",
+            "type": "header",
+            "data": {
+              "text": "Besucherzeiten",
+              "level": 3
+            }
+          },
+          {
+            "id": "o1_sb_times",
+            "type": "timeSlots",
+            "data": {
+              "days": {
+                "monday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "10:00",
+                      "to": "17:00"
+                    }
+                  ]
+                },
+                "tuesday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "10:00",
+                      "to": "17:00"
+                    }
+                  ]
+                },
+                "wednesday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "10:00",
+                      "to": "17:00"
+                    }
+                  ]
+                },
+                "thursday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "10:00",
+                      "to": "17:00"
+                    }
+                  ]
+                },
+                "friday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "10:00",
+                      "to": "17:00"
+                    }
+                  ]
+                },
+                "saturday": {
+                  "mode": "hidden",
+                  "periods": []
+                },
+                "sunday": {
+                  "mode": "hidden",
+                  "periods": []
+                }
+              }
+            }
+          },
+          {
+            "id": "o1_sb_note",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Aktivitäten &amp; Gruppenangebote</b>: meist nachmittags"
+            }
+          },
+          {
+            "id": "YFCqFFkDYu",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Veranstaltungen</b>: einzelne Termine am Wochenende"
+            }
+          },
+          {
+            "id": "vpyDem2oDu",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Alters- und Pflegeheim Musterdorf</b>"
+            }
+          },
+          {
+            "id": "xz93kkV0Eu",
+            "type": "header",
+            "data": {
+              "text": "Kontakt",
+              "level": 2
+            }
+          },
+          {
+            "id": "PV07pars32",
+            "type": "contact",
+            "data": {
+              "contacts": [
+                {
+                  "type": "address",
+                  "label": "Adresse",
+                  "value": "Parkstraße 8\n4321 Musterdorf"
+                },
+                {
+                  "type": "phone",
+                  "label": "Telefon",
+                  "value": "01234 987654"
+                },
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "engagement@pflegeheim-musterdorf.de"
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "org002": {
+    "blockContent": {
+      "main": {
+        "time": 1774024994871,
+        "blocks": [
+          {
+            "id": "o2_about",
+            "type": "aboutUs",
+            "data": {
+              "title": "Gemeinsam für eine lebendige Stadt",
+              "text": "Die Stadtdiener sind ein gemeinnütziger Verein für soziale Stadtentwicklung in Musterstadt. Seit 2012 setzen wir uns dafür ein, dass Nachbarschaften wachsen, öffentliche Räume aufblühen und Menschen zusammenkommen."
+            }
+          },
+          {
+            "id": "ZKnrHGAhtX",
+            "type": "image",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": true,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/general/49f3d8a6-a594-4ac7-b482-26aa7f712e9b.svg"
+              }
+            }
+          },
+          {
+            "id": "OuYfKN7gfN",
+            "type": "paragraph",
+            "data": {
+              "text": "Seit 2012 setzen wir uns für lebendige Nachbarschaften, saubere Grünflächen und starke Gemeinschaften ein. Gemeinsam mit engagierten Bürgerinnen und Bürgern organisieren wir Stadtteilprojekte, Umweltaktionen und Bildungsangebote für Jung und Alt."
+            }
+          },
+          {
+            "id": "0vQBv737XN",
+            "type": "paragraph",
+            "data": {
+              "text": "Unser Ziel ist es, Musterstadt zu einem Ort zu machen, <b>an dem sich alle zuhause fühlen.</b>"
+            }
+          },
+          {
+            "id": "qEz0hpdqC2",
+            "type": "paragraph",
+            "data": {
+              "text": "Freiwillige sind das Herz unserer Arbeit – ohne sie wären viele unserer Projekte nicht möglich."
+            }
+          },
+          {
+            "id": "0j8quKv8ej",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "TzqZIp2X0A",
+            "type": "header",
+            "data": {
+              "text": "Unsere Projekte",
+              "level": 2
+            }
+          },
+          {
+            "id": "fAPfyhYkE-",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Organisation von <b>Stadtteilaktionen und Nachbarschaftsprojekten</b>",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Pflege und Verschönerung von <b>Grünflächen und öffentlichen Orten</b>",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Umweltaktionen </b>wie Müllsammelaktionen oder Pflanzprojekte",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Bildungsangebote und Workshops</b> für Kinder, Jugendliche und Erwachsene",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<b>Gemeinschaftsveranstaltungen</b> zur Förderung des Zusammenhalts im Viertel",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "lUBs-RGkuQ",
+            "type": "header",
+            "data": {
+              "text": "Wie du dich bei uns engagieren kannst",
+              "level": 2
+            }
+          },
+          {
+            "id": "ZHOkADU65u",
+            "type": "list",
+            "data": {
+              "style": "checklist",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Mithilfe bei Umwelt- und Aufräumaktionen",
+                  "meta": {
+                    "checked": true
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Unterstützung bei Stadtteilfesten und Veranstaltungen",
+                  "meta": {
+                    "checked": true
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Betreuung von Bildungs- oder Mitmachangeboten",
+                  "meta": {
+                    "checked": true
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Organisation und Planung neuer Stadtteilprojekte",
+                  "meta": {
+                    "checked": true
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Kreative Ideen für ein besseres Zusammenleben einbringen",
+                  "meta": {
+                    "checked": true
+                  },
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "rJJVc702dS",
+            "type": "header",
+            "data": {
+              "text": "Warum freiwilliges Engagement bei den Stadtdienern?",
+              "level": 3
+            }
+          },
+          {
+            "id": "bv4o12Cc2V",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Du gestaltest deine Stadt aktiv mit\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Du lernst neue Menschen aus deiner Nachbarschaft kennen\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Du engagierst dich für Umwelt und Gemeinschaft\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Du kannst eigene Ideen und Projekte einbringen\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Du erlebst direkt, was dein Einsatz bewirkt\n\n",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "_vlQNXyu8D",
+            "type": "divider",
+            "data": {
+              "color": "primary"
+            }
+          },
+          {
+            "id": "qukSKyl-R8",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Unsere Öffnungs- und Treffzeiten</b>"
+            }
+          },
+          {
+            "id": "OaJ4zzf2Tv",
+            "type": "timeSlots",
+            "data": {
+              "days": {
+                "monday": {
+                  "mode": "hidden",
+                  "periods": []
+                },
+                "tuesday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "16:00",
+                      "to": "18:00"
+                    }
+                  ]
+                },
+                "wednesday": {
+                  "mode": "hidden",
+                  "periods": []
+                },
+                "thursday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "16:00",
+                      "to": "18:00"
+                    }
+                  ]
+                },
+                "friday": {
+                  "mode": "hidden",
+                  "periods": []
+                },
+                "saturday": {
+                  "mode": "hidden",
+                  "periods": []
+                },
+                "sunday": {
+                  "mode": "hidden",
+                  "periods": []
+                }
+              }
+            }
+          },
+          {
+            "id": "ycewScyhlb",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Projekttermine </b>nach Ankündigung"
+            }
+          },
+          {
+            "id": "RuZ5dbASJS",
+            "type": "header",
+            "data": {
+              "text": "Kontakt",
+              "level": 3
+            }
+          },
+          {
+            "id": "RbSC56KWl_",
+            "type": "contact",
+            "data": {
+              "contacts": [
+                {
+                  "type": "person",
+                  "value": "Udo Muster"
+                },
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "info@musterstadt.stadtdiener.org"
+                },
+                {
+                  "type": "phone",
+                  "label": "Telefon",
+                  "value": "+43 321 456789"
+                },
+                {
+                  "type": "address",
+                  "label": "Adresse",
+                  "value": "Musterstraße 10\n1234 Musterstadt"
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1774024994871,
+        "blocks": [
+          {
+            "id": "R4rCy8da-1",
+            "type": "logo",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/logos/7c5a6497-1d19-4722-99fa-4f4fac76dabd.svg"
+              }
+            }
+          },
+          {
+            "id": "zwdK_YLCmw",
+            "type": "highlightedParagraph",
+            "data": {
+              "text": "Mach deine Stadt grüner, lebendiger und lebenswerter – gemeinsam mit uns!",
+              "color": "primary"
+            }
+          },
+          {
+            "id": "uZNtGsknbe",
+            "type": "linkTool",
+            "data": {
+              "link": "www.stadtdiener.org/musterstadt",
+              "meta": {
+                "title": "www.stadtdiener.org/musterstadt",
+                "description": "Vorschau für www.stadtdiener.org/musterstadt",
+                "image": {
+                  "url": ""
+                }
+              }
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "org003": {
+    "blockContent": {
+      "main": {
+        "time": 1774094908724,
+        "blocks": [
+          {
+            "id": "o3_about",
+            "type": "aboutUs",
+            "data": {
+              "title": "Unsere Mission",
+              "text": "MitDirundMir ist eine Einrichtung zur Freizeitgestaltung und Werkstatt für beeinträchtigte Personen in Musterstadt. Wir schaffen seit 2015 kreative und geschützte Räume, in denen Menschen ihre Fähigkeiten entdecken und weiterentwickeln können. Ob Holzwerkstatt, Kreativatelier oder gemeinsames Kochen – bei uns stehen Teilhabe, Selbstbestimmung und Gemeinschaft im Mittelpunkt."
+            }
+          },
+          {
+            "id": "o3_p_philosophie",
+            "type": "paragraph",
+            "data": {
+              "text": "Wir sind davon überzeugt, dass jeder Mensch einzigartige Stärken hat – unabhängig von körperlichen oder kognitiven Beeinträchtigungen. Unsere Einrichtung bietet Raum, diese Stärken zu entfalten: in der Holzwerkstatt entstehen Möbel und Kleinigkeiten mit echter Handwerkskunst, im Kreativatelier wird gemalt, getöpfert und gedruckt, und beim gemeinsamen Kochen wird nicht nur ein Mittagessen zubereitet, sondern auch Gemeinschaft gelebt."
+            }
+          },
+          {
+            "id": "o3_img",
+            "type": "image",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": true,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/general/376ccf12-880d-43b3-b2ea-887d6be5c9f5.svg"
+              }
+            }
+          },
+          {
+            "id": "o3_h_auszeichnet",
+            "type": "header",
+            "data": {
+              "text": "Was uns auszeichnet",
+              "level": 3
+            }
+          },
+          {
+            "id": "o3_list_auszeichnet",
+            "type": "list",
+            "data": {
+              "style": "checklist",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Individuelle Förderung in kleinen Gruppen",
+                  "meta": {
+                    "checked": true
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Barrierefreie Räumlichkeiten",
+                  "meta": {
+                    "checked": true
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Professionelles und ehrenamtliches Team Hand in Hand",
+                  "meta": {
+                    "checked": true
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Inklusive Veranstaltungen offen für alle",
+                  "meta": {
+                    "checked": true
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Kooperation mit lokalen Schulen und Betrieben",
+                  "meta": {
+                    "checked": true
+                  },
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o3_div1",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o3_h_aufgaben",
+            "type": "header",
+            "data": {
+              "text": "Aufgaben für Freiwillige",
+              "level": 3
+            }
+          },
+          {
+            "id": "o3_p_aufgaben",
+            "type": "paragraph",
+            "data": {
+              "text": "Freiwillige bei MitDirundMir begleiten unsere Teilnehmerinnen und Teilnehmer bei ihren Tätigkeiten – nicht als Anleitung von oben, sondern als gleichberechtigte Mitmachende. Das bedeutet: Sie arbeiten gemeinsam, lernen voneinander und schaffen etwas, das für alle bedeutsam ist. Ein Freiwilliger in der Holzwerkstatt muss nicht Tischler sein – er muss Lust haben, mit den Händen zu arbeiten und dabei echte Gespräche zu führen."
+            }
+          },
+          {
+            "id": "o3_list_aufgaben",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Begleitung in der Holzwerkstatt (sägen, schleifen, lackieren)",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Mitarbeit im Kreativatelier (malen, töpfern, drucken)",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Unterstützung beim gemeinsamen Kochen und Backen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Begleitung bei Ausflügen und Freizeitaktivitäten",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Gesellschaft und Gespräch in den Pausen",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o3_div2",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o3_h_voraus",
+            "type": "header",
+            "data": {
+              "text": "Voraussetzungen &amp; Hinweise",
+              "level": 3
+            }
+          },
+          {
+            "id": "o3_p_voraus",
+            "type": "paragraph",
+            "data": {
+              "text": "Für die Arbeit bei MitDirundMir braucht es vor allem Offenheit und die Bereitschaft, sich auf Menschen einzulassen, die vielleicht anders kommunizieren oder sich anders verhalten als man es gewohnt ist. Ein kurzes Orientierungsgespräch mit unserer Leitung gehört vor dem ersten Einsatz dazu – nicht als Test, sondern damit wir gemeinsam herausfinden, welche Aufgabe am besten zu Ihnen passt."
+            }
+          },
+          {
+            "id": "o3_list_voraus",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Offenheit im Umgang mit Menschen mit Beeinträchtigungen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Mindestalter 18 Jahre (Ausnahmen nach Rücksprache möglich)",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Bereitschaft für ein kurzes Erstgespräch vor dem ersten Einsatz",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Regelmäßige Teilnahme erwünscht, aber keine Verpflichtung",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o3_div3",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o3_orgdetails",
+            "type": "orgDetails",
+            "data": {
+              "details": [
+                {
+                  "type": "founding_year",
+                  "label": "Gründungsjahr",
+                  "value": "2015"
+                },
+                {
+                  "type": "board",
+                  "label": "Vorstand",
+                  "value": "DI Franz Wimmer"
+                },
+                {
+                  "type": "address",
+                  "label": "Anschrift",
+                  "value": "Werkstattgasse 7\n4321 Musterdorf"
+                },
+                {
+                  "type": "number_of_volunteers",
+                  "label": "Anzahl Freiwillige",
+                  "value": "5 aktiv"
+                }
+              ]
+            }
+          },
+          {
+            "id": "o3_times",
+            "type": "timeSlots",
+            "data": {
+              "days": {
+                "monday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "08:00",
+                      "to": "17:00"
+                    }
+                  ]
+                },
+                "tuesday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "08:00",
+                      "to": "17:00"
+                    }
+                  ]
+                },
+                "wednesday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "08:00",
+                      "to": "17:00"
+                    }
+                  ]
+                },
+                "thursday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "08:00",
+                      "to": "17:00"
+                    }
+                  ]
+                },
+                "friday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "08:00",
+                      "to": "14:00"
+                    }
+                  ]
+                },
+                "saturday": {
+                  "mode": "closed",
+                  "periods": []
+                },
+                "sunday": {
+                  "mode": "closed",
+                  "periods": []
+                }
+              }
+            }
+          },
+          {
+            "id": "o3_contact",
+            "type": "contact",
+            "data": {
+              "contacts": [
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "mitmachen@mitdirundmir.at"
+                },
+                {
+                  "type": "phone",
+                  "label": "Telefon",
+                  "value": "+43 7229 88100"
+                }
+              ]
+            }
+          },
+          {
+            "id": "o3_tags",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Inklusion",
+                "Werkstatt",
+                "Kreativität",
+                "Teilhabe",
+                "Behindertenarbeit",
+                "Selbstbestimmung"
+              ],
+              "link": null
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "blocks": []
+      }
+    }
+  },
+  "org004": {
+    "blockContent": {
+      "main": {
+        "time": 1773573867834,
+        "blocks": [
+          {
+            "id": "o4_about",
+            "type": "aboutUs",
+            "data": {
+              "title": "Über Mustergabe",
+              "text": "Mustergabe bietet Stadtführungen durch Musterstadt an und verbindet Geschichte mit lebendigen Geschichten aus dem Alltag. Unsere ehrenamtlichen Guides zeigen versteckte Winkel, historische Plätze und erzählen Anekdoten, die man in keinem Reiseführer findet. Seit 2018 begeistern wir Einheimische und Gäste für die Vielfalt unserer Stadt."
+            }
+          },
+          {
+            "id": "o4_p_geschichte",
+            "type": "paragraph",
+            "data": {
+              "text": "Was als kleines Hobby-Projekt zweier Geschichtsbegeisterter begann, ist heute ein etabliertes Kulturangebot: Mustergabe führt pro Jahr mehrere Hundert Personen durch die Gassen, Höfe und Plätze von Musterstadt. Jede Führung ist anders – weil unsere Guides ihre eigenen Lieblingsorte und -geschichten einbringen. Das macht Mustergabe zu etwas, das keine kommerzielle Tourismusagentur ersetzen kann."
+            }
+          },
+          {
+            "id": "o4_img",
+            "type": "image",
+            "data": {
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/general/4985e006-c8d7-4614-935f-9b00f19e1825.svg"
+              }
+            }
+          },
+          {
+            "id": "o4_h_angebot",
+            "type": "header",
+            "data": {
+              "text": "Unser Angebot",
+              "level": 3
+            }
+          },
+          {
+            "id": "o4_list_angebot",
+            "type": "list",
+            "data": {
+              "style": "ordered",
+              "meta": {
+                "counterType": "numeric"
+              },
+              "items": [
+                {
+                  "content": "Historische Altstadtführungen (ca. 90 Min.)",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Themenführungen: Kaffeehauskultur, Architektur, Sagen &amp; Legenden",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Schulführungen &amp; pädagogische Programme",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Private Gruppenführungen auf Anfrage",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o4_div1",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o4_h_guides",
+            "type": "header",
+            "data": {
+              "text": "Guide werden bei Mustergabe",
+              "level": 3
+            }
+          },
+          {
+            "id": "o4_p_guides",
+            "type": "paragraph",
+            "data": {
+              "text": "Unsere Guides sind keine ausgebildeten Historikerinnen und Historiker – obwohl einige es sind. Was sie verbindet, ist eine echte Leidenschaft für Musterstadt und die Freude daran, diese Leidenschaft weiterzugeben. Jede neue Guide-Person entwickelt im Laufe der ersten Monate ihre eigene Lieblingsroute und ihren eigenen Erzählstil. Wir unterstützen diesen Prozess durch ein gemeinsames Einschulungsprogramm und regelmäßige Treffen."
+            }
+          },
+          {
+            "id": "o4_p_guides2",
+            "type": "paragraph",
+            "data": {
+              "text": "Eine typische Führung dauert 60 bis 90 Minuten und findet bei jedem Wetter statt – also: festes Schuhwerk und wetterfeste Kleidung sind empfehlenswert. Für Schulführungen bieten wir gesonderte Vorbereitungsmaterialien an, die pädagogisch aufbereitet sind."
+            }
+          },
+          {
+            "id": "o4_h_voraus",
+            "type": "header",
+            "data": {
+              "text": "Was du mitbringen solltest",
+              "level": 3
+            }
+          },
+          {
+            "id": "o4_list_voraus",
+            "type": "list",
+            "data": {
+              "style": "checklist",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Begeisterung für Geschichte und Stadtkultur",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Freude am Sprechen und am Umgang mit Gruppen",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Bereitschaft, an mind. 4 Führungen pro Jahr teilzunehmen",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Deutschkenntnisse auf gutem Gesprächsniveau (Führungen auch auf Englisch möglich)",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Mindestalter 18 Jahre",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o4_div2",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o4_contact",
+            "type": "contact",
+            "data": {
+              "title": "Buchungen & Kontakt",
+              "contacts": [
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "fuehrungen@mustergabe.at"
+                },
+                {
+                  "type": "phone",
+                  "label": "Telefon",
+                  "value": "+43 664 987 65 43"
+                }
+              ]
+            }
+          },
+          {
+            "id": "o4_tags",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Stadtführung",
+                "Geschichte",
+                "Kultur",
+                "Ehrenamt",
+                "Tourismus"
+              ],
+              "link": null
+            }
+          }
+        ],
+        "version": "2.31.1"
+      },
+      "sidebar": {
+        "blocks": []
+      }
+    }
+  },
+  "org005": {
+    "blockContent": {
+      "main": {
+        "time": 1774806821701,
+        "blocks": [
+          {
+            "id": "o5_logo",
+            "type": "logo",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/logos/46e5f015-1135-47b1-ad95-01279594a00f.svg"
+              }
+            }
+          },
+          {
+            "id": "o5_about",
+            "type": "aboutUs",
+            "data": {
+              "title": "Die Museumsbahn",
+              "text": "Der Verein Museumsbahn Musterdorf (MbMd) erhält und betreibt die historische Musterbahn. Mit viel Herzblut restaurieren unsere Mitglieder alte Waggons und Lokomotiven und machen Eisenbahngeschichte für kommende Generationen erlebbar. Regelmäßige Fahrtage, Führungen und Technik-Workshops machen die Bahn zu einem lebendigen Treffpunkt für Jung und Alt."
+            }
+          },
+          {
+            "id": "o5_p_history",
+            "type": "paragraph",
+            "data": {
+              "text": "Die Musterbahn wurde 1912 als Schmalspurbahn eröffnet und verband über Jahrzehnte die umliegenden Dörfer mit der Kreisstadt. Nach der Einstellung des regulären Betriebs 1971 gründete sich 1994 ein Verein von Eisenbahnbegeisterten, der die verbliebenen Fahrzeuge und Gleisanlagen übernahm und seither liebevoll pflegt. Heute umfasst unsere Sammlung 14 historische Fahrzeuge, darunter drei betriebsbereite Dampflokomotiven."
+            }
+          },
+          {
+            "id": "o5_img1",
+            "type": "image",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": true,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/general/9955e7d8-5539-416d-b69f-017b8236567b.svg"
+              }
+            }
+          },
+          {
+            "id": "o5_div1",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o5_h_aufgaben",
+            "type": "header",
+            "data": {
+              "text": "Was Freiwillige bei uns tun",
+              "level": 3
+            }
+          },
+          {
+            "id": "o5_p_aufgaben",
+            "type": "paragraph",
+            "data": {
+              "text": "Das Spektrum der Freiwilligentätigkeiten bei der MbMd ist breit – vom Schraubenschlüssel bis zum Mikrofon. In der Restaurierungswerkstatt arbeiten wir an historischen Fahrzeugen: Rost entfernen, Bleche schweißen, Holzteile ersetzen, Lackierungen ausführen. An Fahrtagen übernehmen Freiwillige die Fahrgastbetreuung, führen durch das Depot und erklären die Technik der alten Maschinen. Wer lieber hinter den Kulissen bleibt, hilft beim Dokumentieren, Fotografieren oder bei der Öffentlichkeitsarbeit."
+            }
+          },
+          {
+            "id": "o5_list_aufgaben",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Mitarbeit bei Restaurierungsarbeiten an historischen Fahrzeugen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Begleitung auf Fahrtagen (Zugbegleiter:in, Lokführerassistenz)",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Führungen durch Depot und Ausstellung",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Unterstützung bei Technik-Workshops für Kinder und Jugendliche",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Fotodokumentation und Archivarbeit",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Mitarbeit bei Social Media und Vereinswebsite",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o5_p_werkstatt",
+            "type": "paragraph",
+            "data": {
+              "text": "Technische Vorkenntnisse sind für viele Aufgaben von Vorteil, aber kein Muss. Gerade bei Fahrtagen und Führungen sind vor allem Freude an der Geschichte und am Umgang mit Menschen gefragt. Wer handwerklich begabt ist, findet in unserer Restaurierungswerkstatt ein echtes Zuhause – erfahrene Mitglieder stehen immer mit Rat und Tat zur Seite."
+            }
+          },
+          {
+            "id": "o5_div2",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o5_h_leistungen",
+            "type": "header",
+            "data": {
+              "text": "Was du als Freiwillige:r bekommst",
+              "level": 3
+            }
+          },
+          {
+            "id": "o5_list_leistungen",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Zugang zur Werkstatt auch außerhalb der regulären Vereinszeiten",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Kostenlose Teilnahme an allen Fahrtagen als Gast",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Einschulung durch erfahrene Vereinsmitglieder",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Freier Eintritt zu Technik-Workshops und Vereinsausstellungen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Vergünstigte Jahresmitgliedschaft im ersten Jahr",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o5_div3",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o5_h_fahrtage",
+            "type": "header",
+            "data": {
+              "text": "Fahrtage &amp; Sondertermine",
+              "level": 3
+            }
+          },
+          {
+            "id": "o5_times",
+            "type": "timeSlots",
+            "data": {
+              "days": {
+                "monday": {
+                  "mode": "closed",
+                  "periods": []
+                },
+                "tuesday": {
+                  "mode": "closed",
+                  "periods": []
+                },
+                "wednesday": {
+                  "mode": "closed",
+                  "periods": []
+                },
+                "thursday": {
+                  "mode": "closed",
+                  "periods": []
+                },
+                "friday": {
+                  "mode": "closed",
+                  "periods": []
+                },
+                "saturday": {
+                  "mode": "hidden",
+                  "periods": []
+                },
+                "sunday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "10:00",
+                      "to": "17:00"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "o5_p_fahrtage",
+            "type": "paragraph",
+            "data": {
+              "text": "Reguläre Fahrtage finden jeweils am <b>ersten Sonntag im Monat</b> statt. Sonderfahrten zu Ostern, im August (Sommerfest) und am ersten Advent-Sonntag."
+            }
+          },
+          {
+            "id": "o5_div4",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o5_tags",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Eisenbahn",
+                "Geschichte",
+                "Restaurierung",
+                "Technik",
+                "Vereinsleben",
+                "Kulturerbe",
+                "Fahrtage"
+              ],
+              "link": null
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "time": 1774806821701,
+        "blocks": [
+          {
+            "id": "o5_sb_orgdetails",
+            "type": "orgDetails",
+            "data": {
+              "details": [
+                {
+                  "type": "org_name",
+                  "label": "Organisationsname",
+                  "value": "Museumsbahn Musterdorf (MbMd)"
+                },
+                {
+                  "type": "legal_form",
+                  "label": "Rechtsform",
+                  "value": "Verein"
+                },
+                {
+                  "type": "founding_year",
+                  "label": "Gründungsjahr",
+                  "value": "1994"
+                },
+                {
+                  "type": "board",
+                  "label": "Obmann",
+                  "value": "Ing. Helmut Brandstätter"
+                },
+                {
+                  "type": "address",
+                  "label": "Anschrift",
+                  "value": "Bahnhofstraße 1\n4321 Musterdorf"
+                },
+                {
+                  "type": "registration_number",
+                  "label": "ZVR",
+                  "value": "2271093"
+                },
+                {
+                  "type": "tax_number",
+                  "label": "Steuernummer",
+                  "value": "12/345/6789"
+                },
+                {
+                  "type": "bank_account",
+                  "label": "Bankverbindung",
+                  "value": "AT12 1234 5678 9012 3456"
+                },
+                {
+                  "type": "number_of_members",
+                  "label": "Anzahl Mitglieder",
+                  "value": "127"
+                },
+                {
+                  "type": "number_of_volunteers",
+                  "label": "Anzahl Freiwillige",
+                  "value": "5 aktiv"
+                }
+              ]
+            }
+          },
+          {
+            "id": "o5_sb_contact",
+            "type": "contact",
+            "data": {
+              "contacts": [
+                {
+                  "type": "person",
+                  "value": "Ing. Helmut Brandstätter"
+                },
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "obmann@museumsbahn-musterdorf.at"
+                },
+                {
+                  "type": "phone",
+                  "label": "Telefon",
+                  "value": "+43 7229 6600"
+                },
+                {
+                  "type": "address",
+                  "label": "Adresse",
+                  "value": "Bahnhofstraße 1, 4321 Musterdorf"
+                }
+              ]
+            }
+          },
+          {
+            "id": "o5_sb_link",
+            "type": "linkTool",
+            "data": {
+              "link": "https://www.museumsbahn-musterdorf.at",
+              "meta": {
+                "title": "Website der Museumsbahn Musterdorf",
+                "description": "",
+                "image": {
+                  "url": ""
+                }
+              }
+            }
+          }
+        ],
+        "version": "2.31.5"
+      }
+    }
+  },
+  "org006": {
+    "blockContent": {
+      "main": {
+        "time": 1775470842772,
+        "blocks": [
+          {
+            "id": "mzV0XUhxDj",
+            "type": "logo",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/logos/a7efabde-6e54-4595-9a10-b878377c48a4.svg"
+              }
+            }
+          },
+          {
+            "id": "o6_about",
+            "type": "aboutUs",
+            "data": {
+              "title": "Gemeinsam finanzielle Perspektiven schaffen",
+              "text": "Die Schuldnerberatung „Börsenschluss“ unterstützt Menschen in finanziellen Krisensituationen dabei, neue Perspektiven zu entwickeln und ihre wirtschaftliche Selbstständigkeit zurückzugewinnen. Unser Ziel ist es, Ratsuchende individuell, vertraulich und lösungsorientiert auf ihrem Weg aus der Verschuldung zu begleiten."
+            }
+          },
+          {
+            "id": "oXHhcb5ZH1",
+            "type": "header",
+            "data": {
+              "text": "Was wir tun",
+              "level": 3
+            }
+          },
+          {
+            "id": "f8veNSF0sG",
+            "type": "paragraph",
+            "data": {
+              "text": "Unsere Einrichtung bietet kostenfreie und unabhängige Beratung für Menschen, die von Überschuldung betroffen oder bedroht sind. Dabei unterstützen wir unter anderem bei:"
+            }
+          },
+          {
+            "id": "t8UZcAH77S",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Analyse der finanziellen Situation\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Erstellung von Haushalts- und Rückzahlungsplänen\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Verhandlungen mit Gläubigern",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Begleitung bei Privatinsolvenzverfahren\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Präventionsarbeit und finanzielle Bildung\n",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "4vkUBqjYwu",
+            "type": "paragraph",
+            "data": {
+              "text": "Unser Ansatz ist ganzheitlich: Wir betrachten nicht nur Zahlen, sondern auch die persönliche Lebenssituation unserer Klient:innen."
+            }
+          },
+          {
+            "id": "J3BI6mCtas",
+            "type": "header",
+            "data": {
+              "text": "Warum freiwilliges Engagement bei uns?",
+              "level": 3
+            }
+          },
+          {
+            "id": "bBT-LEcdZ_",
+            "type": "paragraph",
+            "data": {
+              "text": "Die Arbeit in der Schuldnerberatung ist sinnstiftend, abwechslungsreich und gesellschaftlich relevant. Als Freiwillige:r (z. B. im Rahmen eines FSJ oder Zivildienstes) erhältst du die Möglichkeit:"
+            }
+          },
+          {
+            "id": "I9sj2T-qg2",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Einblicke in soziale Beratungsarbeit zu gewinnen\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Menschen in schwierigen Lebenslagen aktiv zu unterstützen\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Deine sozialen und kommunikativen Kompetenzen auszubauen\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Verantwortung zu übernehmen und praktische Erfahrungen zu sammeln\n",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "hVnT9Tlu3O",
+            "type": "paragraph",
+            "data": {
+              "text": "Du arbeitest in einem engagierten Team aus Fachkräften und wirst professionell begleitet."
+            }
+          },
+          {
+            "id": "Hkj2yTleNJ",
+            "type": "header",
+            "data": {
+              "text": "Deine möglichen Aufgaben",
+              "level": 3
+            }
+          },
+          {
+            "id": "GBz2X_9kxH",
+            "type": "paragraph",
+            "data": {
+              "text": "Je nach Interesse und Qualifikation kannst du uns unterstützen bei:"
+            }
+          },
+          {
+            "id": "IAhuXwpUYL",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Empfang und Erstkontakt mit Ratsuchenden\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Organisatorischen und administrativen Tätigkeiten\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Vorbereitung von Beratungsgesprächen\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Recherche zu sozialen und rechtlichen Themen\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Mitwirkung bei Workshops und Informationsveranstaltungen\n",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "WbOgg6zJe5",
+            "type": "header",
+            "data": {
+              "text": "Wen wir suchen",
+              "level": 3
+            }
+          },
+          {
+            "id": "aE9i3Vm5Qd",
+            "type": "paragraph",
+            "data": {
+              "text": "Wir freuen uns über motivierte Menschen, die:"
+            }
+          },
+          {
+            "id": "kkkaoEkw4X",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Interesse an sozialen Themen und wirtschaftlichen Zusammenhängen haben\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Empathie und Kommunikationsfähigkeit mitbringen\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Zuverlässig und verantwortungsbewusst arbeiten\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Offen für neue Erfahrungen sind\n",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "sp45U8gX1J",
+            "type": "paragraph",
+            "data": {
+              "text": "Vorkenntnisse sind nicht erforderlich – wichtiger ist deine Motivation, dich einzubringen."
+            }
+          },
+          {
+            "id": "-wC4Rgy95D",
+            "type": "header",
+            "data": {
+              "text": "Warum sich freiwilliges Engagement bei uns lohnt",
+              "level": 3
+            }
+          },
+          {
+            "id": "JETDyYd4RF",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Sinnvolle Unterstützung für Menschen in schwierigen Lebenssituationen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Einblick in soziale Beratung und Präventionsarbeit",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Möglichkeit, eigene Kompetenzen einzubringen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Zusammenarbeit in einem engagierten Team",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Flexible Einsatzmöglichkeiten",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "aLclGUBS1N",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "bKuG4frX82",
+            "type": "header",
+            "data": {
+              "text": "Über unsere Organisation",
+              "level": 2
+            }
+          },
+          {
+            "id": "tfLNYxrv2-",
+            "type": "orgDetails",
+            "data": {
+              "details": [
+                {
+                  "type": "org_name",
+                  "label": "Organisationsname",
+                  "value": "Börsenschluss"
+                },
+                {
+                  "type": "founding_year",
+                  "label": "Gründungsjahr",
+                  "value": "2010"
+                },
+                {
+                  "type": "custom",
+                  "label": "Tätigkeitsbereich",
+                  "value": "Finanzberatung & Schuldenprävention"
+                },
+                {
+                  "type": "number_of_volunteers",
+                  "label": "Anzahl Freiwillige",
+                  "value": "variabel"
+                },
+                {
+                  "type": "custom",
+                  "label": "Sonstiges",
+                  "value": "Über 1.200 durchgeführte Beratungsgespräche"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2pBeegJE6t",
+            "type": "header",
+            "data": {
+              "text": "Kontakt",
+              "level": 4
+            }
+          },
+          {
+            "id": "dFQdrFYExV",
+            "type": "contact",
+            "data": {
+              "contacts": [
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "info@boersenschluss.org"
+                },
+                {
+                  "type": "phone",
+                  "label": "Telefon",
+                  "value": "+43 123 456789"
+                },
+                {
+                  "type": "address",
+                  "label": "Adresse",
+                  "value": "Zahlengasse 13\n1234 Musterstadt"
+                },
+                {
+                  "type": "website",
+                  "label": "Website",
+                  "value": "www.boersenschluss.org"
+                },
+                {
+                  "type": "person",
+                  "value": "Koordination Freiwilligenarbeit"
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.5"
+      },
+      "sidebar": {
+        "blocks": []
+      }
+    }
+  },
+  "org007": {
+    "blockContent": {
+      "main": {
+        "time": 1773594511248,
+        "blocks": [
+          {
+            "id": "x1-z9_2hZW",
+            "type": "logo",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/logos/12564cab-0ba4-4cf9-bf2c-6516dbd2a96b.svg"
+              }
+            }
+          },
+          {
+            "id": "o7_img",
+            "type": "image",
+            "data": {
+              "caption": "",
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": true,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/general/8d09bdc0-2f02-4425-bd23-20cd5c50d1c2.svg"
+              }
+            }
+          },
+          {
+            "id": "lquAz3iyRf",
+            "type": "header",
+            "data": {
+              "text": "Willkommen bei Alles für die Bohne",
+              "level": 2
+            }
+          },
+          {
+            "id": "TdX0Jt9I3g",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Alles für die Bohne ist ein kleines Sozialcafé im Herzen von Musterdorf. Bei uns treffen sich Menschen aus allen Lebenslagen – bei fair gehandeltem Kaffee, hausgemachtem Kuchen und guten Gesprächen.</b>"
+            }
+          },
+          {
+            "id": "pesHUUJ4XI",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Unser Café ist mehr als ein Ort zum Kaffee trinken. Wir möchten Begegnung ermöglichen, Gemeinschaft stärken und raum für neue Ideen schaffen.</b>"
+            }
+          },
+          {
+            "id": "oDgCVimJ1f",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "k_BINv__pw",
+            "type": "header",
+            "data": {
+              "text": "Warum wir Volunteers suchen",
+              "level": 2
+            }
+          },
+          {
+            "id": "QlGnwmM_9p",
+            "type": "paragraph",
+            "data": {
+              "text": "Viele unserer Angebote wären ohne freiwillige Helferinnen und Helfer nicht möglich. Menschen aus der Nachbarschaft unterstützen uns dabei, das Café zu betreiben, Veranstaltungen zu organisieren und einen offenen Treffpunkt für alle zu schaffen."
+            }
+          },
+          {
+            "id": "Rqtgn2aoug",
+            "type": "paragraph",
+            "data": {
+              "text": "Wenn du Lust hast, dich einzubringen, neue Menschen kennenzulernen und Teil einer herzlichen Gemeinschaft zu werden, freuen wir uns sehr über deine Unterstützung."
+            }
+          },
+          {
+            "id": "o7_h_bewegt",
+            "type": "header",
+            "data": {
+              "text": "So kannst du dich bei uns engagieren",
+              "level": 3
+            }
+          },
+          {
+            "id": "Uek_DdwgoM",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Unterstützung im Cafébetrieb (Kaffee ausschenken, Kuchen ausgeben)",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Mithilfe bei Veranstaltungen und Kulturabenden",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Betreuung unseres Sprachcafés",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Organisation von offenen Treffpunkten und Nachbarschaftsaktionen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Unterstützung bei Social Media oder Öffentlichkeitsarbeit",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o7_h_leistungen",
+            "type": "header",
+            "data": {
+              "text": "Was dich bei uns erwartet",
+              "level": 3
+            }
+          },
+          {
+            "id": "VvHSVhtzQi",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Eine offene und herzliche Gemeinschaft\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Flexible Einsatzzeiten\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "<mark class=\"cdx-marker\">Kostenloser Kaffee</mark> während deiner Schicht ☕\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Einblick in soziale Arbeit im Stadtteil\n",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Die Möglichkeit, eigene Ideen einzubringen\n",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o7_div3",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "05qC4KR0nX",
+            "type": "header",
+            "data": {
+              "text": "Unsere Veranstaltungen",
+              "level": 2
+            }
+          },
+          {
+            "id": "GAVBbphZCU",
+            "type": "table",
+            "data": {
+              "withHeadings": true,
+              "stretched": false,
+              "content": [
+                [
+                  "Angebot",
+                  "Beschreibung",
+                  "Häufigkeit"
+                ],
+                [
+                  "<b>Sprachcafé</b>",
+                  "Offenes Treffen zum Deutsch üben",
+                  "1 x pro Woche"
+                ],
+                [
+                  "<b>Kulturabend</b>",
+                  "Musik, Lesungen oder kleine Ausstellungen",
+                  "1x im Monat"
+                ],
+                [
+                  "<b>Offener Treff</b>",
+                  "Austausch für Nachbar*innen",
+                  "mehrmals im Monat"
+                ]
+              ]
+            }
+          },
+          {
+            "id": "Jco7S_SA6k",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "6N4dAGz200",
+            "type": "header",
+            "data": {
+              "text": "Mach mit!",
+              "level": 2
+            }
+          },
+          {
+            "id": "WfgjOtURkT",
+            "type": "paragraph",
+            "data": {
+              "text": "Ob regelmäßig oder nur gelegentlich – jede Unterstützung hilft uns weiter. Über das Volunteer-System kannst du dir ganz einfach passende Einsätze ansehen und dich anmelden."
+            }
+          },
+          {
+            "id": "hlr7G8IeJG",
+            "type": "paragraph",
+            "data": {
+              "text": "<b>Wir freuen uns darauf, dich kennenzulernen!</b>"
+            }
+          }
+        ],
+        "version": "2.31.1"
+      },
+      "sidebar": {
+        "time": 1773594511249,
+        "blocks": [
+          {
+            "id": "VVc1x3QLXy",
+            "type": "orgDetails",
+            "data": {
+              "title": "Organisationsdetails",
+              "details": [
+                {
+                  "type": "org_name",
+                  "label": "Name",
+                  "value": "Alles für die Bohne"
+                },
+                {
+                  "type": "custom",
+                  "label": "Typ",
+                  "value": "Sozialcafé / Begegnungsort"
+                },
+                {
+                  "type": "address",
+                  "label": "Ort",
+                  "value": "Musterdorf (4321)"
+                },
+                {
+                  "type": "custom",
+                  "label": "Bereiche",
+                  "value": "Cafébetrieb, Kultur, Integration, Nachbarschaft"
+                }
+              ]
+            }
+          },
+          {
+            "id": "8KogdCvQSf",
+            "type": "aboutUs",
+            "data": {
+              "title": "Über uns",
+              "text": "Alles für die Bohne wurde gegründet, um einen offenen Treffpunkt im Ort zu schaffen. Unser Ziel ist es, Menschen zusammenzubringen – unabhängig von Alter, Herkunft oder Lebenssituation."
+            }
+          },
+          {
+            "id": "HkivFrw4_q",
+            "type": "header",
+            "data": {
+              "text": "Zeiten für Volunteers",
+              "level": 2
+            }
+          },
+          {
+            "id": "o7_sb_times",
+            "type": "timeSlots",
+            "data": {
+              "title": "Cafébetrieb",
+              "days": {
+                "monday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "09:00",
+                      "to": "12:00"
+                    }
+                  ]
+                },
+                "tuesday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "09:00",
+                      "to": "13:00"
+                    }
+                  ]
+                },
+                "wednesday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "09:00",
+                      "to": "13:00"
+                    }
+                  ]
+                },
+                "thursday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "09:00",
+                      "to": "13:00"
+                    }
+                  ]
+                },
+                "friday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "09:00",
+                      "to": "13:00"
+                    }
+                  ]
+                },
+                "saturday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "10:00",
+                      "to": "14:00"
+                    }
+                  ]
+                },
+                "sunday": {
+                  "mode": "closed",
+                  "periods": []
+                }
+              }
+            }
+          },
+          {
+            "id": "JOmQbsYmJT",
+            "type": "timeSlots",
+            "data": {
+              "title": "Veranstaltungen (meistens)",
+              "days": {
+                "monday": {
+                  "mode": "hidden",
+                  "periods": []
+                },
+                "tuesday": {
+                  "mode": "hidden",
+                  "periods": []
+                },
+                "wednesday": {
+                  "mode": "hidden",
+                  "periods": []
+                },
+                "thursday": {
+                  "mode": "hidden",
+                  "periods": []
+                },
+                "friday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "18:00",
+                      "to": "23:59"
+                    }
+                  ]
+                },
+                "saturday": {
+                  "mode": "open",
+                  "periods": [
+                    {
+                      "from": "18:00",
+                      "to": "23:59"
+                    }
+                  ]
+                },
+                "sunday": {
+                  "mode": "hidden",
+                  "periods": []
+                }
+              }
+            }
+          },
+          {
+            "id": "EW89rHRqhL",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Café",
+                "Begegnung",
+                "Integration",
+                "Kultur",
+                "Nachbarschaft",
+                "Ehrenamt"
+              ],
+              "link": null
+            }
+          },
+          {
+            "id": "0GSZ8DQFjU",
+            "type": "contact",
+            "data": {
+              "title": "Kontakt",
+              "contacts": [
+                {
+                  "type": "custom",
+                  "label": "Sozialcafé",
+                  "value": "Alles für die Bohne"
+                },
+                {
+                  "type": "address",
+                  "label": "Adresse",
+                  "value": "Marktplatz 3\n4321 Musterdorf"
+                },
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "hallo@allesfuerdiebohne.at"
+                },
+                {
+                  "type": "phone",
+                  "label": "Telefon",
+                  "value": "01234 567890"
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.1"
+      }
+    }
+  },
+  "org008": {
+    "blockContent": {
+      "main": {
+        "time": 1773574107663,
+        "blocks": [
+          {
+            "id": "o8_about",
+            "type": "aboutUs",
+            "data": {
+              "title": "Events für Musterstadt",
+              "text": "Musterstadt Eventmanagement organisiert gemeinnützige Veranstaltungen, Stadtfeste und Benefizaktionen in Musterstadt. Mit einem engagierten Team aus Haupt- und Ehrenamtlichen planen wir Events, die Menschen zusammenbringen und soziale Projekte sichtbar machen."
+            }
+          },
+          {
+            "id": "o8_p_selbstverstaendnis",
+            "type": "paragraph",
+            "data": {
+              "text": "Events sind mehr als Unterhaltung – sie sind Räume, in denen Gemeinschaft entsteht. Seit unserer Gründung 2016 haben wir über 40 Veranstaltungen organisiert, darunter das jährliche Stadtfest mit bis zu 3.000 Besucherinnen und Besuchern, Benefizgalas für lokale Sozialprojekte und kleinere Nachbarschaftsevents. Dabei setzen wir bewusst auf ein gemischtes Team aus bezahlten Fachkräften und Freiwilligen – denn nur so entstehen Veranstaltungen, die wirklich von der Gemeinschaft getragen werden."
+            }
+          },
+          {
+            "id": "o8_div1",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o8_h_freiwillige",
+            "type": "header",
+            "data": {
+              "text": "Freiwilligenarbeit bei uns – was das bedeutet",
+              "level": 3
+            }
+          },
+          {
+            "id": "o8_p_freiwillige",
+            "type": "paragraph",
+            "data": {
+              "text": "Wer bei Musterstadt Eventmanagement mitmacht, übernimmt echte Verantwortung. Je nach Einsatzbereich bedeutet das: selbstständig Aufgaben koordinieren, mit Lieferanten sprechen, Abläufe vorbereiten oder auf der Bühne moderieren. Wir bereiten unsere Freiwilligen gut vor – durch Briefings, Checklisten und direkte Ansprechpersonen. Wer möchte, kann sich über mehrere Jahre hinweg weiterentwickeln und immer komplexere Aufgaben übernehmen."
+            }
+          },
+          {
+            "id": "o8_h_aufgaben",
+            "type": "header",
+            "data": {
+              "text": "Aufgabenbereiche",
+              "level": 3
+            }
+          },
+          {
+            "id": "o8_list_aufgaben",
+            "type": "list",
+            "data": {
+              "style": "ordered",
+              "meta": {
+                "counterType": "numeric"
+              },
+              "items": [
+                {
+                  "content": "Auf- und Abbau bei Veranstaltungen (Bühne, Zelte, Mobiliar)",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Technische Unterstützung – Licht, Ton, Strom, Bühnenaufbau",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Moderation und Bühnenbetreuung vor und während Programmpunkten",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Koordination und Einweisung von Helfer:innen vor Ort",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Grafik, Werbemittel, Social Media &amp; Pressearbeit im Vorfeld",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Kassenführung und Eintrittsmanagement",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o8_p_aufgaben_detail",
+            "type": "paragraph",
+            "data": {
+              "text": "Der Bereich <b>Technik</b> ist besonders gesucht: Freiwillige, die Erfahrung mit Licht- oder Tontechnik mitbringen, sind bei uns sehr willkommen. Wir haben eigenes Equipment und arbeiten bei größeren Events mit externen Firmen zusammen – Freiwillige mit technischem Hintergrund übernehmen dabei die Schnittstelle und die Koordination vor Ort."
+            }
+          },
+          {
+            "id": "o8_div2",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o8_h_voraus",
+            "type": "header",
+            "data": {
+              "text": "Was wir uns wünschen",
+              "level": 3
+            }
+          },
+          {
+            "id": "o8_list_voraus",
+            "type": "list",
+            "data": {
+              "style": "checklist",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Verlässlichkeit – insbesondere an Veranstaltungstagen",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Teamfähigkeit und gute Kommunikation unter Zeitdruck",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Bereitschaft, auch Samstage oder Abendstunden einzuplanen",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Vorkenntnisse im jeweiligen Bereich von Vorteil, aber kein Muss",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                },
+                {
+                  "content": "Mindestalter 16 Jahre (unter 18 nur mit Einverständnis der Erziehungsberechtigten)",
+                  "meta": {
+                    "checked": false
+                  },
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o8_div3",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o8_img",
+            "type": "image",
+            "data": {
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": true,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/general/60d5ad4a-55b4-4d00-b3d5-26496c7b6bc3.svg"
+              }
+            }
+          },
+          {
+            "id": "o8_h_events",
+            "type": "header",
+            "data": {
+              "text": "Kommende Events 2026",
+              "level": 3
+            }
+          },
+          {
+            "id": "o8_list_events",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Stadtfest Musterstadt – 12.–14. Juli 2026",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Benefizgala Herbst – 18. Oktober 2026",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Weihnachtsmarkt Musterdorf – Dezember 2026",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o8_div4",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o8_contact1",
+            "type": "contact",
+            "data": {
+              "title": "Freiwilligenkoordination",
+              "contacts": [
+                {
+                  "type": "person",
+                  "value": "Theresa Altmann, BA – Obfrau"
+                },
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "t.altmann@ms-eventmanagement.at"
+                },
+                {
+                  "type": "phone",
+                  "label": "Telefon",
+                  "value": "+43 676 555 77 88"
+                }
+              ]
+            }
+          },
+          {
+            "id": "o8_contact2",
+            "type": "contact",
+            "data": {
+              "title": "Büro & Allgemeine Anfragen",
+              "contacts": [
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "office@ms-eventmanagement.at"
+                },
+                {
+                  "type": "phone",
+                  "label": "Telefon",
+                  "value": "+43 1 4444-0"
+                },
+                {
+                  "type": "address",
+                  "label": "Adresse",
+                  "value": "Eventplatz 1, 1010 Musterstadt"
+                }
+              ]
+            }
+          },
+          {
+            "id": "o8_tags",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Events",
+                "Stadtfest",
+                "Benefiz",
+                "Technik",
+                "Teamarbeit",
+                "Veranstaltungsmanagement"
+              ],
+              "link": null
+            }
+          }
+        ],
+        "version": "2.31.1"
+      },
+      "sidebar": {
+        "time": 1773574107663,
+        "blocks": [
+          {
+            "id": "pqN3LYrNCe",
+            "type": "logo",
+            "data": {
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/logos/a35fc1b2-f98c-47df-ac96-174ee4ac221b.svg"
+              }
+            }
+          },
+          {
+            "id": "o8_sb_orgdetails",
+            "type": "orgDetails",
+            "data": {
+              "title": "Vereinsdaten",
+              "details": [
+                {
+                  "type": "org_name",
+                  "label": "Organisationsname",
+                  "value": "Musterstadt Eventmanagement"
+                },
+                {
+                  "type": "legal_form",
+                  "label": "Rechtsform",
+                  "value": "Gemeinnütziger Verein"
+                },
+                {
+                  "type": "founding_year",
+                  "label": "Gründungsjahr",
+                  "value": "2016"
+                },
+                {
+                  "type": "board",
+                  "label": "Obfrau",
+                  "value": "Theresa Altmann, BA"
+                },
+                {
+                  "type": "address",
+                  "label": "Anschrift",
+                  "value": "Eventplatz 1\n1010 Musterstadt"
+                },
+                {
+                  "type": "registration_number",
+                  "label": "ZVR",
+                  "value": "9910234"
+                },
+                {
+                  "type": "number_of_members",
+                  "label": "Anzahl Mitglieder",
+                  "value": "42"
+                },
+                {
+                  "type": "number_of_volunteers",
+                  "label": "Anzahl Freiwillige",
+                  "value": "5 aktiv"
+                }
+              ]
+            }
+          }
+        ],
+        "version": "2.31.1"
+      }
+    }
+  },
+  "org009": {
+    "blockContent": {
+      "main": {
+        "time": 1773574131159,
+        "blocks": [
+          {
+            "id": "o9_logo",
+            "type": "logo",
+            "data": {
+              "withBorder": false,
+              "withBackground": false,
+              "stretched": false,
+              "file": {
+                "url": "http://localhost:3000/images/uploads/logos/e6a43600-b405-4974-91f1-c7dbd333e5cd.svg"
+              }
+            }
+          },
+          {
+            "id": "o9_about",
+            "type": "aboutUs",
+            "data": {
+              "title": "Über uns",
+              "text": "Die Mustergültige Jugend ist die Landjugend in Musterdorf und engagiert sich für Gemeinschaft, Brauchtum und nachhaltige Entwicklung im ländlichen Raum. Wir organisieren Dorffeste, Bildungsangebote und Umweltprojekte und fördern den Austausch zwischen den Generationen."
+            }
+          },
+          {
+            "id": "o9_p_selbst",
+            "type": "paragraph",
+            "data": {
+              "text": "Bei uns können junge Menschen Verantwortung übernehmen und ihre Heimat aktiv mitgestalten. Die Mustergültige Jugend ist mehr als ein Verein – sie ist ein Netzwerk von Menschen, die Musterdorf lieben und etwas zurückgeben wollen. Ob beim Aufbau des Dorffestes, beim Pflanzen von Obstbäumen oder beim Organisieren eines Filmabends – hier zählt jede helfende Hand."
+            }
+          },
+          {
+            "id": "o9_div1",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o9_h_aktivitaeten",
+            "type": "header",
+            "data": {
+              "text": "Was wir machen",
+              "level": 3
+            }
+          },
+          {
+            "id": "o9_list_aktivitaeten",
+            "type": "list",
+            "data": {
+              "style": "unordered",
+              "meta": {},
+              "items": [
+                {
+                  "content": "Planung und Durchführung des jährlichen Dorffestes",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Umwelt- und Naturschutzprojekte (Streuobstwiese, Insektenhotels)",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Bildungsabende und Vorträge zu ländlichen Themen",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Brauchtumspflege und traditionelle Handwerksprojekte",
+                  "meta": {},
+                  "items": []
+                },
+                {
+                  "content": "Gemeinschaftsprojekte mit der Schule und dem Seniorenheim",
+                  "meta": {},
+                  "items": []
+                }
+              ]
+            }
+          },
+          {
+            "id": "o9_div2",
+            "type": "divider",
+            "data": {
+              "color": "secondary"
+            }
+          },
+          {
+            "id": "o9_contact",
+            "type": "contact",
+            "data": {
+              "title": "Kontakt",
+              "contacts": [
+                {
+                  "type": "person",
+                  "value": "Stefan Gruber – Obmann"
+                },
+                {
+                  "type": "email",
+                  "label": "E-Mail",
+                  "value": "info@mustergueltige-jugend.at"
+                }
+              ]
+            }
+          },
+          {
+            "id": "o9_tags",
+            "type": "tags",
+            "data": {
+              "tags": [
+                "Landjugend",
+                "Brauchtum",
+                "Gemeinschaft",
+                "Nachhaltigkeit",
+                "Jugend"
+              ],
+              "link": null
+            }
+          }
+        ],
+        "version": "2.31.1"
+      },
+      "sidebar": {
+        "blocks": []
+      }
+    }
+  }
+}

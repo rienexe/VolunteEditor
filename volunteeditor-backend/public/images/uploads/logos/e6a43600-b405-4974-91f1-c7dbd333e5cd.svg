@@ -1,0 +1,96 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg9" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#F0FFF4"/>
+      <stop offset="100%" stop-color="#DCF5E4"/>
+    </radialGradient>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#87CEEB" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#87CEEB" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="leafGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#56C46A"/>
+      <stop offset="100%" stop-color="#2E8B3E"/>
+    </linearGradient>
+    <linearGradient id="leafGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#88D89A"/>
+      <stop offset="100%" stop-color="#4CAF60"/>
+    </linearGradient>
+    <linearGradient id="sunGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE55C"/>
+      <stop offset="100%" stop-color="#FFC107"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="300" fill="url(#skyGrad)"/>
+
+  <!-- Rolling hills in background -->
+  <path d="M20,185 Q70,150 120,170 Q155,185 190,162 Q230,140 280,165 L280,220 L20,220 Z" fill="#A8D8B0" opacity="0.4"/>
+  <path d="M20,200 Q75,175 130,188 Q165,198 200,180 Q235,162 280,182 L280,230 L20,230 Z" fill="#78C48A" opacity="0.3"/>
+
+  <!-- Sun -->
+  <circle cx="218" cy="85" r="22" fill="url(#sunGrad)" opacity="0.8"/>
+  <!-- Sun rays -->
+  <g stroke="#FFD700" stroke-width="2" stroke-linecap="round" opacity="0.7">
+    <line x1="218" y1="55" x2="218" y2="48"/>
+    <line x1="218" y1="115" x2="218" y2="122"/>
+    <line x1="188" y1="85" x2="181" y2="85"/>
+    <line x1="248" y1="85" x2="255" y2="85"/>
+    <line x1="197" y1="64" x2="192" y2="59"/>
+    <line x1="239" y1="106" x2="244" y2="111"/>
+    <line x1="239" y1="64" x2="244" y2="59"/>
+    <line x1="197" y1="106" x2="192" y2="111"/>
+  </g>
+
+  <!-- Main large leaf / plant stem -->
+  <line x1="150" y1="190" x2="150" y2="100" stroke="#2E8B3E" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Left big leaf -->
+  <path d="M150,130 Q100,100 88,65 Q115,85 150,130Z" fill="url(#leafGrad1)"/>
+  <path d="M150,130 Q100,100 88,65" fill="none" stroke="#1A6B2E" stroke-width="1.5"/>
+  <!-- Leaf veins left -->
+  <path d="M130,108 Q115,108 110,100" fill="none" stroke="#1A6B2E" stroke-width="0.8" opacity="0.6"/>
+  <path d="M120,118 Q108,120 104,114" fill="none" stroke="#1A6B2E" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Right big leaf -->
+  <path d="M150,130 Q200,100 212,65 Q185,85 150,130Z" fill="url(#leafGrad2)"/>
+  <path d="M150,130 Q200,100 212,65" fill="none" stroke="#2E7B3A" stroke-width="1.5"/>
+  <!-- Leaf veins right -->
+  <path d="M170,108 Q185,108 190,100" fill="none" stroke="#2E7B3A" stroke-width="0.8" opacity="0.6"/>
+  <path d="M180,118 Q192,120 196,114" fill="none" stroke="#2E7B3A" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Small branch leaves -->
+  <path d="M150,155 Q120,140 108,120 Q128,132 150,155Z" fill="#56C46A"/>
+  <path d="M150,155 Q180,140 192,120 Q172,132 150,155Z" fill="#88D89A"/>
+
+  <!-- Top bud/flower -->
+  <circle cx="150" cy="96" r="12" fill="#56C46A"/>
+  <circle cx="150" cy="90" r="8" fill="#FFD700" opacity="0.9"/>
+  <circle cx="150" cy="88" r="4" fill="#FFA000"/>
+
+  <!-- Three stylized young figures below leaf -->
+  <!-- Figure 1 - left -->
+  <circle cx="108" cy="165" r="9" fill="#F4A261"/>
+  <path d="M100,178 Q108,172 116,178 L113,195 L103,195 Z" fill="#E76F51"/>
+  <!-- arms up -->
+  <line x1="100" y1="182" x2="90" y2="172" stroke="#E76F51" stroke-width="3" stroke-linecap="round"/>
+  <line x1="116" y1="182" x2="124" y2="172" stroke="#E76F51" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Figure 2 - center -->
+  <circle cx="150" cy="163" r="9" fill="#F4A261"/>
+  <path d="M142,176 Q150,170 158,176 L155,193 L145,193 Z" fill="#2A9D8F"/>
+  <line x1="142" y1="180" x2="132" y2="170" stroke="#2A9D8F" stroke-width="3" stroke-linecap="round"/>
+  <line x1="158" y1="180" x2="168" y2="170" stroke="#2A9D8F" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Figure 3 - right -->
+  <circle cx="192" cy="165" r="9" fill="#F4A261"/>
+  <path d="M184,178 Q192,172 200,178 L197,195 L187,195 Z" fill="#56C46A"/>
+  <line x1="184" y1="182" x2="174" y2="172" stroke="#56C46A" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="182" x2="210" y2="172" stroke="#56C46A" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Text -->
+  <text x="150" y="222" text-anchor="middle" font-size="15" font-weight="900" fill="#1A5C2A" font-family="'Georgia', serif" letter-spacing="1">MUSTERGÜLTIGE</text>
+  <text x="150" y="241" text-anchor="middle" font-size="20" font-weight="900" fill="#2E8B3E" font-family="'Georgia', serif" letter-spacing="2">JUGEND</text>
+  <text x="150" y="258" text-anchor="middle" font-size="8.5" fill="#56C46A" letter-spacing="4" font-family="sans-serif">LANDJUGEND MUSTERDORF</text>
+</svg>

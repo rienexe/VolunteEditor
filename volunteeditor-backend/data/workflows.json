@@ -1,0 +1,443 @@
+{
+  "bewerbung-mit-telefonat": {
+    "meta": {
+      "title": "Bewerbung mit Telefonat",
+      "orgId": "org005"
+    },
+    "workflow": {
+      "nodes": [
+        {
+          "id": "trigger",
+          "type": "triggerVolunteerSignup",
+          "initialized": false,
+          "position": {
+            "x": -200,
+            "y": -140
+          },
+          "data": {
+            "label": "Freiwillige:r meldet sich für eine Aufgabe"
+          }
+        },
+        {
+          "id": "notification-1786183773729-0.7703815311177431",
+          "type": "notification",
+          "initialized": false,
+          "position": {
+            "x": -100,
+            "y": -20
+          },
+          "data": {
+            "label": "Benachrichtigung senden",
+            "message": "Danke für dein Interesse! Wir freuen uns sehr, dass du dich für ein Engagement bei uns anmeldest.\nEin Mitarbeiter von uns wird dich bald kontaktieren und die Details mit besprechen."
+          }
+        },
+        {
+          "id": "condition-1786183930754-0.778539375299893",
+          "type": "condition",
+          "initialized": false,
+          "position": {
+            "x": -100,
+            "y": 240
+          },
+          "data": {
+            "label": "Entscheidung",
+            "condition": "",
+            "decision": "Person passt ins Team?",
+            "option1": "Ja",
+            "option2": "Nein"
+          }
+        },
+        {
+          "id": "signupVolunteer-1786183952101-0.14371191495986968",
+          "type": "signupVolunteer",
+          "initialized": false,
+          "position": {
+            "x": -140,
+            "y": 520
+          },
+          "data": {
+            "label": "Person anmelden",
+            "action": "signup"
+          }
+        },
+        {
+          "id": "signupVolunteer-1786183953086-0.7468803407611377",
+          "type": "signupVolunteer",
+          "initialized": false,
+          "position": {
+            "x": 140,
+            "y": 520
+          },
+          "data": {
+            "label": "Person ablehnen",
+            "action": "reject"
+          }
+        },
+        {
+          "id": "notification-1786183984213-0.1798494569110899",
+          "type": "notification",
+          "initialized": false,
+          "position": {
+            "x": -140,
+            "y": 580
+          },
+          "data": {
+            "label": "Benachrichtigung senden",
+            "message": "Willkommen im Team!"
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "e-condition-1786183930754-0.778539375299893-signupVolunteer-1786183952101-0.14371191495986968",
+          "type": "default",
+          "source": "condition-1786183930754-0.778539375299893",
+          "target": "signupVolunteer-1786183952101-0.14371191495986968",
+          "sourceHandle": "true",
+          "data": {},
+          "label": "",
+          "sourceX": 20.000043455006903,
+          "sourceY": 435.0001155597815,
+          "targetX": -39.99997657409715,
+          "targetY": 517.000030502567
+        },
+        {
+          "id": "e-condition-1786183930754-0.778539375299893-signupVolunteer-1786183953086-0.7468803407611377",
+          "type": "default",
+          "source": "condition-1786183930754-0.778539375299893",
+          "target": "signupVolunteer-1786183953086-0.7468803407611377",
+          "sourceHandle": "false",
+          "data": {},
+          "label": "",
+          "sourceX": 180.0000964656549,
+          "sourceY": 435.0001155597815,
+          "targetX": 240.00005023144894,
+          "targetY": 517.000030502567
+        },
+        {
+          "id": "e-signupVolunteer-1786183952101-0.14371191495986968-notification-1786183984213-0.1798494569110899",
+          "type": "default",
+          "source": "signupVolunteer-1786183952101-0.14371191495986968",
+          "target": "notification-1786183984213-0.1798494569110899",
+          "sourceHandle": {
+            "isTrusted": true,
+            "_vts": 1786183984213,
+            "delegateTarget": {
+              "location": {
+                "ancestorOrigins": {},
+                "href": "http://localhost:5173/org-admin/workflow/editor/bewerbung-mit-telefonat",
+                "origin": "http://localhost:5173",
+                "protocol": "http:",
+                "host": "localhost:5173",
+                "hostname": "localhost",
+                "port": "5173",
+                "pathname": "/org-admin/workflow/editor/bewerbung-mit-telefonat",
+                "search": "",
+                "hash": ""
+              },
+              "uidEvent": 1
+            }
+          },
+          "data": {},
+          "label": "",
+          "sourceX": -40,
+          "sourceY": 562,
+          "targetX": -39.99997657409715,
+          "targetY": 577.000030502567
+        },
+        {
+          "id": "vueflow__edge-trigger-notification-1786183773729-0.7703815311177431",
+          "type": "default",
+          "source": "trigger",
+          "target": "notification-1786183773729-0.7703815311177431",
+          "sourceHandle": null,
+          "targetHandle": null,
+          "updatable": {
+            "source": false,
+            "target": true
+          },
+          "data": {},
+          "label": "",
+          "sourceX": -46.99993990411008,
+          "sourceY": -110.00000646764217,
+          "targetX": 100.0000699603309,
+          "targetY": -23.000023108525184
+        },
+        {
+          "id": "vueflow__edge-notification-1786183773729-0.7703815311177431-condition-1786183930754-0.778539375299893",
+          "type": "default",
+          "source": "notification-1786183773729-0.7703815311177431",
+          "target": "condition-1786183930754-0.778539375299893",
+          "sourceHandle": null,
+          "targetHandle": null,
+          "updatable": {
+            "source": false,
+            "target": true
+          },
+          "data": {},
+          "label": "",
+          "sourceX": 100.0000699603309,
+          "sourceY": 187.0000471606056,
+          "targetX": 100.0000699603309,
+          "targetY": 236.99997689147483
+        }
+      ],
+      "position": [
+        475.30637254901956,
+        205.3872549019607
+      ],
+      "zoom": 1.1384803921568631,
+      "viewport": {
+        "x": 475.30637254901956,
+        "y": 205.3872549019607,
+        "zoom": 1.1384803921568631
+      }
+    }
+  },
+  "default": {
+    "meta": {
+      "title": "Automatische Registrierung",
+      "orgId": ""
+    },
+    "workflow": {
+      "nodes": [
+        {
+          "id": "trigger",
+          "type": "triggerVolunteerSignup",
+          "initialized": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "label": "Freiwillige:r meldet sich für eine Aufgabe"
+          }
+        },
+        {
+          "id": "signupVolunteer-1787333036518-0.043226550690134924",
+          "type": "signupVolunteer",
+          "initialized": false,
+          "position": {
+            "x": 100,
+            "y": 80
+          },
+          "data": {
+            "label": "Person anmelden",
+            "action": "signup"
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "e-trigger-signupVolunteer-1787333036518-0.043226550690134924",
+          "type": "default",
+          "source": "trigger",
+          "target": "signupVolunteer-1787333036518-0.043226550690134924",
+          "sourceHandle": null,
+          "data": {},
+          "label": "",
+          "sourceX": 153,
+          "sourceY": 30,
+          "targetX": 200,
+          "targetY": 77
+        }
+      ],
+      "position": [
+        405,
+        238.5
+      ],
+      "zoom": 2,
+      "viewport": {
+        "x": 405,
+        "y": 238.5,
+        "zoom": 2
+      }
+    }
+  },
+  "bewerbungsgespraech": {
+    "meta": {
+      "title": "Bewerbungsgespräch",
+      "orgId": "org006"
+    },
+    "workflow": {
+      "nodes": [
+        {
+          "id": "trigger",
+          "type": "triggerVolunteerSignup",
+          "initialized": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "label": "Freiwillige:r meldet sich für eine Aufgabe"
+          }
+        },
+        {
+          "id": "notification-1787334958968-0.27026248327365165",
+          "type": "notification",
+          "initialized": false,
+          "position": {
+            "x": 100,
+            "y": 80
+          },
+          "data": {
+            "label": "Benachrichtigung senden",
+            "message": "Danke für dein Interesse! Gerne möchten wir dich näher kennenlernen. Bitte fülle das Formular aus. Wir melden uns danach bei dir für die nächsten Schritte."
+          }
+        },
+        {
+          "id": "dataRequest-1787335037783-0.902169234839201",
+          "type": "dataRequest",
+          "initialized": false,
+          "position": {
+            "x": 100,
+            "y": 300
+          },
+          "data": {
+            "label": "Datenabfrage",
+            "fields": [
+              {
+                "label": "Was motiviert dich deinen Zivildienst bei uns zu absolvieren?",
+                "type": "textarea",
+                "id": "Field_nxsz8fj",
+                "key": "textarea_trwlm"
+              },
+              {
+                "label": "Welche Ausbildung hast du gemacht? Welche Kenntnisse und Erfahrungen bringst du mit?",
+                "type": "textarea",
+                "id": "Field_pie2wbw",
+                "key": "textarea_t5oez"
+              },
+              {
+                "label": "Ich kann mir gut vorstellen mit Klienten zu arbeiten. (Betreuung, Telefongespräche, etc.)",
+                "type": "checkbox",
+                "id": "Field_fkvuyc7",
+                "key": "checkbox_ssykm"
+              }
+            ]
+          }
+        },
+        {
+          "id": "condition-1787335170115-0.0638747074406617",
+          "type": "condition",
+          "initialized": false,
+          "position": {
+            "x": 100,
+            "y": 620
+          },
+          "data": {
+            "label": "Entscheidung",
+            "condition": "",
+            "decision": "Bewerber akzeptieren?",
+            "option1": "Ja",
+            "option2": "Nein"
+          }
+        },
+        {
+          "id": "signupVolunteer-1787335191074-0.9227477002284986",
+          "type": "signupVolunteer",
+          "initialized": false,
+          "position": {
+            "x": -100,
+            "y": 920
+          },
+          "data": {
+            "label": "Person anmelden",
+            "action": "signup"
+          }
+        },
+        {
+          "id": "signupVolunteer-1787335192801-0.8852272272057724",
+          "type": "signupVolunteer",
+          "initialized": false,
+          "position": {
+            "x": 300,
+            "y": 920
+          },
+          "data": {
+            "label": "Person ablehnen",
+            "action": "reject"
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "e-trigger-notification-1787334958968-0.27026248327365165",
+          "type": "default",
+          "source": "trigger",
+          "target": "notification-1787334958968-0.27026248327365165",
+          "sourceHandle": null,
+          "data": {},
+          "label": "",
+          "sourceX": 153,
+          "sourceY": 30,
+          "targetX": 199.9998552892622,
+          "targetY": 77.00000256812898
+        },
+        {
+          "id": "e-notification-1787334958968-0.27026248327365165-dataRequest-1787335037783-0.902169234839201",
+          "type": "default",
+          "source": "notification-1787334958968-0.27026248327365165",
+          "target": "dataRequest-1787335037783-0.902169234839201",
+          "sourceHandle": null,
+          "data": {},
+          "label": "",
+          "sourceX": 199.9998552892622,
+          "sourceY": 178.99985100411328,
+          "targetX": 199.9998552892622,
+          "targetY": 297.000002568129
+        },
+        {
+          "id": "e-dataRequest-1787335037783-0.902169234839201-condition-1787335170115-0.0638747074406617",
+          "type": "default",
+          "source": "dataRequest-1787335037783-0.902169234839201",
+          "target": "condition-1787335170115-0.0638747074406617",
+          "sourceHandle": null,
+          "data": {},
+          "label": "",
+          "sourceX": 199.9998552892622,
+          "sourceY": 398.999874132076,
+          "targetX": 199.99985772809754,
+          "targetY": 616.9999948141106
+        },
+        {
+          "id": "e-condition-1787335170115-0.0638747074406617-signupVolunteer-1787335191074-0.9227477002284986",
+          "type": "default",
+          "source": "condition-1787335170115-0.0638747074406617",
+          "target": "signupVolunteer-1787335191074-0.9227477002284986",
+          "sourceHandle": "true",
+          "data": {},
+          "label": "",
+          "sourceX": 159.99991256250271,
+          "sourceY": 718.9998419578926,
+          "targetX": -0.00014227190247595445,
+          "targetY": 916.9999416799969
+        },
+        {
+          "id": "e-condition-1787335170115-0.0638747074406617-signupVolunteer-1787335192801-0.8852272272057724",
+          "type": "default",
+          "source": "condition-1787335170115-0.0638747074406617",
+          "target": "signupVolunteer-1787335192801-0.8852272272057724",
+          "sourceHandle": "false",
+          "data": {},
+          "label": "",
+          "sourceX": 239.99980289369233,
+          "sourceY": 718.9998419578926,
+          "targetX": 399.9998842951543,
+          "targetY": 916.9999416799969
+        }
+      ],
+      "position": [
+        -188.04170541246435,
+        60.76250571278497
+      ],
+      "zoom": 1.0000000000000004,
+      "viewport": {
+        "x": -188.04170541246435,
+        "y": 60.76250571278497,
+        "zoom": 1.0000000000000004
+      }
+    }
+  }
+}
