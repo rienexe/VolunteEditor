@@ -1,13 +1,18 @@
-import { toastStore } from "@/services";
+import { toastStore, userStore } from "@/services";
 import { postVolunteersToTask, deleteVolunteersOfTask } from "@/api/index.js";
 
 
 
 export const workflowActions = {
     notification: async (data, context) => {
-        if (data.recipient === 'volunteer') {
-            toastStore.addToast(`Neue Nachricht von ${context.org?.name ?? 'Organisation'} erhalten`);
+        if (data.recipient !== userStore.role) {
+            return;
         }
+
+        toastStore.addToast(
+            data.message ??
+            `Neue Nachricht von ${context.org?.name ?? 'Organisation'} erhalten`
+        );
     },
     dataRequest: async (data, context) => {
         toastStore.addToast(`${context.org?.name ?? 'Organisation'} bittet dich ein Formular auszufüllen`);
