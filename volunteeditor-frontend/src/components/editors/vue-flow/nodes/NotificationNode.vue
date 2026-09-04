@@ -18,10 +18,12 @@ const props = defineProps({
 
 const { updateNodeData } = useVueFlow();
 
+
+
 function updateData(key, value) {
   updateNodeData(props.id, {
     [key]: value
-  })
+  });
 }
 </script>
 
@@ -31,11 +33,12 @@ function updateData(key, value) {
     <template #settings>
       <div class="d-flex flex-row align-items-center gap-3 mb-2">
         <label class="col-form-label fw-normal">An: </label>
-        <select class="form-select form-select-sm fw-normal"
-                :value="data.recipient ?? 'volunteer'"
-                @change="updateData('recipient', $event.target.value)"
+        <select
+            class="form-select form-select-sm fw-normal"
+            :value="data.recipient"
+            @change="updateData('recipient', $event.target.value)"
         >
-          <option value="volunteer" selected>Freiwillige:r</option>
+          <option value="volunteer">Freiwillige:r</option>
           <option value="organisation">Organisation</option>
         </select>
       </div>
