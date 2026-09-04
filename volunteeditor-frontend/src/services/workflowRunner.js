@@ -22,7 +22,7 @@ export class WorkflowRunner {
 
             visited.add(node.id);
 
-            if (node.type === "decision") {
+            if (node.type === "condition") {
                 await this.executeNode(node);
                 break;
             }
