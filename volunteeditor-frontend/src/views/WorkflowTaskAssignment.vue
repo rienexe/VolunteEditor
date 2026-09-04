@@ -163,6 +163,7 @@ async function saveEditor() {
             }
 
             await persistAssignments(mapping);
+            taskCache = await getTasks(userStore.id);
             loadExistingEdges();
           }
         }
@@ -173,7 +174,6 @@ async function saveEditor() {
 
   await persistAssignments(mapping);
 }
-
 
 
 
